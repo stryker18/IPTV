@@ -9,7 +9,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="http://ptni.gov.ph/wp-content/uploads/2018/07/PTV-Logo-300x72.png" group-title="",PTV 4
-https://www.dailymotion.com/cdn/live/video/x5cr6b9.m3u8
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
@@ -85,7 +85,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Entertainment",FX
-http://tvmedia2.com:8080/trevor/trevor/164299.ts
+http://ky-tv.cc:25461/tram/tram/176031?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -100,13 +100,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/53b93bc93a361a2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r0FdsDB/Paramount-Network-II.png" group-title="Movies",Paramount Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fox.movies.vn" tvg-logo="https://www.foxmoviesasia.com/images/fm.png" group-title="Movies",FOX Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -142,10 +135,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="Movies",HBO (East)
-http://tvmedia2.com:8080/andrea/andrea/164593.m3u8
+http://ky-tv.cc:25461/tram/tram/176044?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.ibb.co/02dStD9/IMG-20210103-025549.png" group-title="Movies",HBO (West)
-http://tvmedia2.com:8080/andrea/andrea/164589.m3u8
+http://ky-tv.cc:25461/tram/tram/176050?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
 http://tvmedia2.com:8080/doreen/doreen/164337.ts
@@ -168,14 +161,14 @@ http://tvmedia2.com:8080/andrea/andrea/164431.m3u8
 #EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
 http://tvmedia2.com:8080/andrea/andrea/164680.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="(no group)",Paramount Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="Movies",Paramount Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="(no group)",AXN HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Movies",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="(no group)",AMC
-http://tvmedia2.com:8080/doreen/doreen/164360.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Movies"",AMC
+http://185.71.64.167:80/9369407316/3938935138/81045?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
 http://tvmedia2.com:8080/andrea/andrea/164365.m3u8
