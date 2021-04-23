@@ -76,16 +76,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37sxc28WkvQ/WZB73MorB8I/AAAAAAAAqiU/IdvZL3wSklgnWc1pPhAZKdDBOnc6rH1RACLcBGAs/s172/MNX-logo-2017.png" group-title="Movies",MNX HD
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158793058&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI=
+https://sectigo.com/CPS0 Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0# http://ocsp.sectigo.com0 http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0% http://ocsp.usertrust.com0 http://crl.comodoca.com/AAACertificateServices.crl04 http://ocsp.comodoca.com0 http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI= http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158793058&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="Movies",MN+ HD
 https://sectigo.com/CPS0
