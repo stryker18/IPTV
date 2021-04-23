@@ -17,9 +17,6 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="",GMA
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/GTV_Philippines_%28official_logo%29.png/revision/latest/scale-to-width-down/2000?cb=20210302112414" group-title="",GTV
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
@@ -29,17 +26,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg" group-title="News",DZRH News Television
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/108.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TVSHOPPH.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! Philippines
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
@@ -75,32 +66,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37sxc28WkvQ/WZB73MorB8I/AAAAAAAAqiU/IdvZL3wSklgnWc1pPhAZKdDBOnc6rH1RACLcBGAs/s172/MNX-logo-2017.png" group-title="Movies",MNX HD
-https://sectigo.com/CPS0 Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0# http://ocsp.sectigo.com0 http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0% http://ocsp.usertrust.com0 http://crl.comodoca.com/AAACertificateServices.crl04 http://ocsp.comodoca.com0 http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI= http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158793058&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDY6MDAgQU0maGFzaF92YWx1ZT1ROEVDckdERFB3THBScXpaZGhObEZ3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="Movies",MN+ HD
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/eros/mnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mjk6MzggQU0maGFzaF92YWx1ZT1vc2JzVmxlNDU3MUZGN3laMDBxNXhRPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=158788425&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mjk6MzggQU0maGFzaF92YWx1ZT1vc2JzVmxlNDU3MUZGN3laMDBxNXhRPT0mdmFsaWRtaW51dGVzPTI=
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://45.58.139.242:9630/toto/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NTU6NDUgQU0maGFzaF92YWx1ZT15UkFXb0NvekhWVmMrbnZ1TEVadld3PT0mdmFsaWRtaW51dGVzPTI=
-http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75604071&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NTU6NDUgQU0maGFzaF92YWx1ZT15UkFXb0NvekhWVmMrbnZ1TEVadld3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
@@ -134,90 +102,25 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzE6MDIgQU0maGFzaF92YWx1ZT1mZ1l0NWRsZmQvcGw2OGQ1SFc1OXVBPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158788808&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzE6MDIgQU0maGFzaF92YWx1ZT1mZ1l0NWRsZmQvcGw2OGQ1SFc1OXVBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax Moremax" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",Cinemax MoreMax
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/cinemaxmore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzI6MTYgQU0maGFzaF92YWx1ZT1KUkZkbU8rUE94c1ZPbFNpc0M3YXJBPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/cinemaxmore/chunks.m3u8?nimblesessionid=158789136&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzI6MTYgQU0maGFzaF92YWx1ZT1KUkZkbU8rUE94c1ZPbFNpc0M3YXJBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
+http://tvmedia2.com:8080/andrea/andrea/164199.m3u8
 
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="Movies",STARZ HD
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/starzhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzM6NTAgQU0maGFzaF92YWx1ZT15MU9wTW5TaU96aVJ0Sm8ySWVFcWVnPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/starzhd/chunks.m3u8?nimblesessionid=158789497&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzM6NTAgQU0maGFzaF92YWx1ZT15MU9wTW5TaU96aVJ0Sm8ySWVFcWVnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/starzencore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzQ6MzcgQU0maGFzaF92YWx1ZT11bDNHOWVMcUFrSTBJV0xJTmk3N25BPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/starzencore/chunks.m3u8?nimblesessionid=158789744&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzQ6MzcgQU0maGFzaF92YWx1ZT11bDNHOWVMcUFrSTBJV0xJTmk3N25BPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
-http://tvmedia2.com:8080/andrea/andrea/164680.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="Movies",Paramount Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://img.favpng.com/20/17/0/paramount-pictures-paramount-channel-television-channel-paramount-network-png-favpng-eGgfQn9wRHXHWmjFAbWtYMDaZ_t.jpg" group-title="Movies",Paramount Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Movies",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Movies"",AMC
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/amc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzU6NDkgQU0maGFzaF92YWx1ZT1YMXBvM1J0b1ZQZDE1OC8yMHJyS1B3PT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/amc/chunks.m3u8?nimblesessionid=158790119&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzU6NDkgQU0maGFzaF92YWx1ZT1YMXBvM1J0b1ZQZDE1OC8yMHJyS1B3PT0mdmFsaWRtaW51dGVzPTI=
+http://gooserace.xyz:2052/ricky1/ricky1/1524267?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
-http://dpasdl08.tth.cl:8745/thana/AandE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzY6NDAgQU0maGFzaF92YWx1ZT1NUXY4QWlZeTcydHlMYk81NmE1SU5nPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/AandE/chunks.m3u8?nimblesessionid=158790353&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzY6NDAgQU0maGFzaF92YWx1ZT1NUXY4QWlZeTcydHlMYk81NmE1SU5nPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Movies Action UK" tvg-logo="https://www.pngjoy.com/pngm/107/2216701_movies-sky-movies-action-and-adventure-hd-png.png" group-title="(no group)",Sky Movies Action UK
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://45.58.139.242:9630/libris/SkyMoviesAction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzc6MjUgQU0maGFzaF92YWx1ZT1odE1XNWsxd1h2YVhJbGZPZ0VLYUJRPT0mdmFsaWRtaW51dGVzPTI=
-http://45.58.139.242:9630/libris/SkyMoviesAction/chunks.m3u8?nimblesessionid=75600043&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzc6MjUgQU0maGFzaF92YWx1ZT1odE1XNWsxd1h2YVhJbGZPZ0VLYUJRPT0mdmFsaWRtaW51dGVzPTI=
+http://tvmedia2.com:8080/andrea/andrea/164365.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -227,34 +130,19 @@ http://45.58.139.242:9630/libris/SkyMoviesAction/chunks.m3u8?nimblesessionid=756
 https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery US
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/discoveryusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDA6MDMgQU0maGFzaF92YWx1ZT1ncUgvb0tRL2tpaS84SnBXYzRJTkxRPT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/discoveryusa/chunks.m3u8?nimblesessionid=158791270&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDA6MDMgQU0maGFzaF92YWx1ZT1ncUgvb0tRL2tpaS84SnBXYzRJTkxRPT0mdmFsaWRtaW51dGVzPTI=
+http://tvmedia2.com:8080/andrea/andrea/164323.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-https://sectigo.com/CPS0
-Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
-http://ocsp.sectigo.com0
-http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
-http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
-http://ocsp.usertrust.com0
-http://crl.comodoca.com/AAACertificateServices.crl04
-http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/thana/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzk6MjAgQU0maGFzaF92YWx1ZT1WbkxxMjdaQmhVbkdHQW9NK3VBNGN3PT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/thana/animalplanet/chunks.m3u8?nimblesessionid=158791047&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzk6MjAgQU0maGFzaF92YWx1ZT1WbkxxMjdaQmhVbkdHQW9NK3VBNGN3PT0mdmFsaWRtaW51dGVzPTI=
+http://tvmedia2.com:8080/andrea/andrea/164358.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
 https://fullenglish.xyz:443/monte/monte123/20483
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-http://dpasdl08.tth.cl:8745/thana/natgeousa/chunks.m3u8?nimblesessionid=158776759&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDc6MDUgQU0maGFzaF92YWx1ZT11NWdsUS9OVE5RUE93dVJ2cVIzZHV3PT0mdmFsaWRtaW51dGVzPTI=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
+https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -341,11 +229,5 @@ https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQPqHIap-hJfBHN17D7XWtnZUc0Y0LhxMGNew&usqp=CAU" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
-
-
-
-
-
-
 
 
