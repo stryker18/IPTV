@@ -100,7 +100,7 @@ http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158768520&wms
 http://dpasdl08.tth.cl:8745/eros/mnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6Mjk6MDMgQU0maGFzaF92YWx1ZT0wa0ZjZk5KMWJLVzhGQVRIMXZuZU53PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75589852&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzI6NTAgQU0maGFzaF92YWx1ZT0yWXFuMWhJRDlOK1JuVnNLbUJzby9RPT0mdmFsaWRtaW51dGVzPTI=
+http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75593735&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MDM6NDQgQU0maGFzaF92YWx1ZT1iVWllbXVhVlh3SXJpTFJJOHBZaG9RPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
