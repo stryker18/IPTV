@@ -108,8 +108,8 @@ http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
 http://ocsp.usertrust.com0
 http://crl.comodoca.com/AAACertificateServices.crl04
 http://ocsp.comodoca.com0
-http://45.58.139.242:9630/toto/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjA6MTIgQU0maGFzaF92YWx1ZT1ya1dyWEtOcUh1cEtoYlRod25rZjN3PT0mdmFsaWRtaW51dGVzPTI=
-http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75596541&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjA6MTIgQU0maGFzaF92YWx1ZT1ya1dyWEtOcUh1cEtoYlRod25rZjN3PT0mdmFsaWRtaW51dGVzPTI=
+http://45.58.139.242:9630/toto/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NTU6NDUgQU0maGFzaF92YWx1ZT15UkFXb0NvekhWVmMrbnZ1TEVadld3PT0mdmFsaWRtaW51dGVzPTI=
+http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75604071&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NTU6NDUgQU0maGFzaF92YWx1ZT15UkFXb0NvekhWVmMrbnZ1TEVadld3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
@@ -144,7 +144,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
-http://ph.tvlivestreaming.api.cyberprotector.online/?get=1&cc=PH&pub=tvlivestreaming&uid=8a5e9b31-75ab-4138-b347-ec40bed08c5f&foreground=false&ver=8.1.29
 https://sectigo.com/CPS0
 Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
 http://ocsp.sectigo.com0
@@ -157,15 +156,38 @@ http://dpasdl08.tth.cl:8745/thana/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rp
 http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158788808&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzE6MDIgQU0maGFzaF92YWx1ZT1mZ1l0NWRsZmQvcGw2OGQ1SFc1OXVBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax Moremax" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",Cinemax MoreMax
-http://ip-api.com/json/?fields=17035263
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
 http://dpasdl08.tth.cl:8745/thana/cinemaxmore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzI6MTYgQU0maGFzaF92YWx1ZT1KUkZkbU8rUE94c1ZPbFNpc0M3YXJBPT0mdmFsaWRtaW51dGVzPTI=
 http://dpasdl08.tth.cl:8745/thana/cinemaxmore/chunks.m3u8?nimblesessionid=158789136&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzI6MTYgQU0maGFzaF92YWx1ZT1KUkZkbU8rUE94c1ZPbFNpc0M3YXJBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="Movies",STARZ HD
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
 http://dpasdl08.tth.cl:8745/thana/starzhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzM6NTAgQU0maGFzaF92YWx1ZT15MU9wTW5TaU96aVJ0Sm8ySWVFcWVnPT0mdmFsaWRtaW51dGVzPTI=
 http://dpasdl08.tth.cl:8745/thana/starzhd/chunks.m3u8?nimblesessionid=158789497&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzM6NTAgQU0maGFzaF92YWx1ZT15MU9wTW5TaU96aVJ0Sm8ySWVFcWVnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
 http://dpasdl08.tth.cl:8745/thana/starzencore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzQ6MzcgQU0maGFzaF92YWx1ZT11bDNHOWVMcUFrSTBJV0xJTmk3N25BPT0mdmFsaWRtaW51dGVzPTI=
 http://dpasdl08.tth.cl:8745/thana/starzencore/chunks.m3u8?nimblesessionid=158789744&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzQ6MzcgQU0maGFzaF92YWx1ZT11bDNHOWVMcUFrSTBJV0xJTmk3N25BPT0mdmFsaWRtaW51dGVzPTI=
 
@@ -195,7 +217,6 @@ http://dpasdl08.tth.cl:8745/thana/AandE/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbW
 http://dpasdl08.tth.cl:8745/thana/AandE/chunks.m3u8?nimblesessionid=158790353&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MzY6NDAgQU0maGFzaF92YWx1ZT1NUXY4QWlZeTcydHlMYk81NmE1SU5nPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Movies Action UK" tvg-logo="https://www.pngjoy.com/pngm/107/2216701_movies-sky-movies-action-and-adventure-hd-png.png" group-title="(no group)",Sky Movies Action UK
-http://ip-api.com/json/?fields=17035263
 https://sectigo.com/CPS0
 Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
 http://ocsp.sectigo.com0
@@ -215,10 +236,26 @@ http://45.58.139.242:9630/libris/SkyMoviesAction/chunks.m3u8?nimblesessionid=756
 https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery US
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
 http://dpasdl08.tth.cl:8745/thana/discoveryusa/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDA6MDMgQU0maGFzaF92YWx1ZT1ncUgvb0tRL2tpaS84SnBXYzRJTkxRPT0mdmFsaWRtaW51dGVzPTI=
 http://dpasdl08.tth.cl:8745/thana/discoveryusa/chunks.m3u8?nimblesessionid=158791270&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDA6MDMgQU0maGFzaF92YWx1ZT1ncUgvb0tRL2tpaS84SnBXYzRJTkxRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
 http://dpasdl08.tth.cl:8745/thana/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzk6MjAgQU0maGFzaF92YWx1ZT1WbkxxMjdaQmhVbkdHQW9NK3VBNGN3PT0mdmFsaWRtaW51dGVzPTI=
 http://dpasdl08.tth.cl:8745/thana/animalplanet/chunks.m3u8?nimblesessionid=158791047&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6Mzk6MjAgQU0maGFzaF92YWx1ZT1WbkxxMjdaQmhVbkdHQW9NK3VBNGN3PT0mdmFsaWRtaW51dGVzPTI=
 
