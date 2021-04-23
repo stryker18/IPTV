@@ -93,9 +93,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37sxc28WkvQ/WZB73MorB8I/AAAAAAAAqiU/IdvZL3wSklgnWc1pPhAZKdDBOnc6rH1RACLcBGAs/s172/MNX-logo-2017.png" group-title="Movies",MNX HD
+http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158768520&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MTI6MDQgQU0maGFzaF92YWx1ZT1UU0xQZW51T0RKditVWlJlVURDZkt3PT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="Movies",MN+ HD
+http://dpasdl08.tth.cl:8745/eros/mnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6Mjk6MDMgQU0maGFzaF92YWx1ZT0wa0ZjZk5KMWJLVzhGQVRIMXZuZU53PT0mdmFsaWRtaW51dGVzPTI=
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
+http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75589852&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzI6NTAgQU0maGFzaF92YWx1ZT0yWXFuMWhJRDlOK1JuVnNLbUJzby9RPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
@@ -129,34 +134,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-id="Cin.Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/2000?cb=20201205115034" group-title="Movies",Cinemax
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
+http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158773994&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzM6NTYgQU0maGFzaF92YWx1ZT1rWnRlYy9mS3AzeXoyS3k3QUxYY1VBPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-ID="HBOE" tvg-name="HBO (East)" tvg-logo="https://i.ibb.co/x6qB0ZQ/IMG-20210103-025636.png" group-title="Movies",HBO (East)
-http://ky-tv.cc:25461/tram/tram/176044?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://i.ibb.co/02dStD9/IMG-20210103-025549.png" group-title="Movies",HBO (West)
-http://ky-tv.cc:25461/tram/tram/176050?checkedby:hlscat.com
-
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (East)
-http://tvmedia2.com:8080/doreen/doreen/164337.ts
-
-#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax (West)
-http://listamy.com:8080/Berto/Berto/328599
-
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (East)
-http://tvmedia2.com:8080/andrea/andrea/164453.m3u8
-
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="Movies",Showtime (West)
-http://tvmedia2.com:8080/andrea/andrea/164446.m3u8
+#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",Cinemax MoreMax
+http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158773994&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzM6NTYgQU0maGFzaF92YWx1ZT1rWnRlYy9mS3AzeXoyS3k3QUxYY1VBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-http://tvmedia2.com:8080/andrea/andrea/164199.m3u8
+http://dpasdl08.tth.cl:8745/thana/starzhd/chunks.m3u8?nimblesessionid=158775253&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDA6MDQgQU0maGFzaF92YWx1ZT15QjZlbkhRMEFxQ20yZTR3dG52RmdRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
-http://tvmedia2.com:8080/andrea/andrea/164431.m3u8
+http://dpasdl08.tth.cl:8745/thana/starzencore/chunks.m3u8?nimblesessionid=158775110&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6Mzk6MTEgQU0maGFzaF92YWx1ZT1tTjEzckJvM0NDbGdiNTN0enlJSGNBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
 http://tvmedia2.com:8080/andrea/andrea/164680.m3u8
@@ -168,10 +156,13 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Movies"",AMC
-http://185.71.64.167:80/9369407316/3938935138/81045?checkedby:hlscat.com
+http://dpasdl08.tth.cl:8745/thana/amc/chunks.m3u8?nimblesessionid=158775691&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDI6MDggQU0maGFzaF92YWx1ZT04MndpdGgzOFBtaXBNVThwYmNVT09RPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
-http://tvmedia2.com:8080/andrea/andrea/164365.m3u8
+http://dpasdl08.tth.cl:8745/thana/AandE/chunks.m3u8?nimblesessionid=158775447&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDE6MDAgQU0maGFzaF92YWx1ZT1OTjIxa09Wd0J3NmFnS2M3eGxRSmdRPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Movies Action UK" tvg-logo="https://www.pngjoy.com/pngm/107/2216701_movies-sky-movies-action-and-adventure-hd-png.png" group-title="(no group)",Sky Movies Action UK
+http://45.58.139.242:9630/libris/SkyMoviesAction/chunks.m3u8?nimblesessionid=75591838&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NTA6MDEgQU0maGFzaF92YWx1ZT15b3hYVEZ0c0hSdU5zK0VqdHJHY09nPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -181,19 +172,16 @@ http://tvmedia2.com:8080/andrea/andrea/164365.m3u8
 https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery US
-http://tvmedia2.com:8080/andrea/andrea/164323.m3u8
+http://dpasdl08.tth.cl:8745/thana/discoveryusa/chunks.m3u8?nimblesessionid=158776606&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDY6MjQgQU0maGFzaF92YWx1ZT03VDlPWVRjMHJZWE1zT29lSlZHV2RBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://tvmedia2.com:8080/andrea/andrea/164358.m3u8
+http://dpasdl08.tth.cl:8745/thana/animalplanet/chunks.m3u8?nimblesessionid=158776419&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDU6MzQgQU0maGFzaF92YWx1ZT1Qa3Zhbmx2TGpJNEJpMUE5MWNjTFJnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
 https://fullenglish.xyz:443/monte/monte123/20483
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
+http://dpasdl08.tth.cl:8745/thana/natgeousa/chunks.m3u8?nimblesessionid=158776759&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDc6MDUgQU0maGFzaF92YWx1ZT11NWdsUS9OVE5RUE93dVJ2cVIzZHV3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
