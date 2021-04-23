@@ -41,23 +41,11 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ETC_(2016).svg/revision/latest/scale-to-width-down/2000?cb=20200801100404" group-title="Lifestyle",ETC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/130.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest/scale-to-width-down/2000?cb=20160619031101" group-title="Local",Sari-Sari
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/139.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo!
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! Philippines
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Asia
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Philippines
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fe8a278cd5312f3.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
@@ -65,14 +53,8 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YD7Lmvs/Disney-Junior-2019.png" group-title="Kids",Disney Junior
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
@@ -94,10 +76,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-37sxc28WkvQ/WZB73MorB8I/AAAAAAAAqiU/IdvZL3wSklgnWc1pPhAZKdDBOnc6rH1RACLcBGAs/s172/MNX-logo-2017.png" group-title="Movies",MNX HD
-http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158768520&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MTI6MDQgQU0maGFzaF92YWx1ZT1UU0xQZW51T0RKditVWlJlVURDZkt3PT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158783680&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTM6MjMgQU0maGFzaF92YWx1ZT1adXlzbHNKMklUNDA2UEdJVUZDK01BPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="Movies",MN+ HD
-http://dpasdl08.tth.cl:8745/eros/mnhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6Mjk6MDMgQU0maGFzaF92YWx1ZT0wa0ZjZk5KMWJLVzhGQVRIMXZuZU53PT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=158783487&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTI6NDEgQU0maGFzaF92YWx1ZT1ZTXFsQy8vN1ZOWG5mSU42VjlwSXNnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
 http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75593735&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MDM6NDQgQU0maGFzaF92YWx1ZT1iVWllbXVhVlh3SXJpTFJJOHBZaG9RPT0mdmFsaWRtaW51dGVzPTI=
@@ -134,17 +116,17 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
-http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158773994&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzM6NTYgQU0maGFzaF92YWx1ZT1rWnRlYy9mS3AzeXoyS3k3QUxYY1VBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="Movies",Cinemax
+http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158783977&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTQ6MzIgQU0maGFzaF92YWx1ZT1TRlp5UlBGTURsWVNkdnJ3NzdoYWJ3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax USA" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",Cinemax MoreMax
-http://dpasdl08.tth.cl:8745/thana/cinemax/chunks.m3u8?nimblesessionid=158773994&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6MzM6NTYgQU0maGFzaF92YWx1ZT1rWnRlYy9mS3AzeXoyS3k3QUxYY1VBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax Moremax" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="Movies",Cinemax MoreMax
+http://dpasdl08.tth.cl:8745/thana/cinemaxmore/chunks.m3u8?nimblesessionid=158784136&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTU6MDUgQU0maGFzaF92YWx1ZT1ITTdKc2FuY2ROZnk4YnlZaEh2RkNRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-http://dpasdl08.tth.cl:8745/thana/starzhd/chunks.m3u8?nimblesessionid=158775253&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6NDA6MDQgQU0maGFzaF92YWx1ZT15QjZlbkhRMEFxQ20yZTR3dG52RmdRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="Movies",STARZ HD
+http://dpasdl08.tth.cl:8745/thana/starzhd/chunks.m3u8?nimblesessionid=158784351&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTU6NTQgQU0maGFzaF92YWx1ZT0yZmNxZnFNVHArQTlWeUg4RWVSK1NRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ Encore" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzenchd_2016_horz_wh_rgb.png" group-title="Movies",STARZ Encore
-http://dpasdl08.tth.cl:8745/thana/starzencore/chunks.m3u8?nimblesessionid=158775110&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDg6Mzk6MTEgQU0maGFzaF92YWx1ZT1tTjEzckJvM0NDbGdiNTN0enlJSGNBPT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/thana/starzencore/chunks.m3u8?nimblesessionid=158785090&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTc6NTYgQU0maGFzaF92YWx1ZT1ZSHNJeGN1eVdCMk5la1ptZE1PN0d3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix" tvg-logo="https://content.epix.com/logos/epix-logo.png" group-title="Movies",Epix
 http://tvmedia2.com:8080/andrea/andrea/164680.m3u8
