@@ -82,7 +82,16 @@ http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158783680&wms
 http://dpasdl08.tth.cl:8745/eros/mnhd/chunks.m3u8?nimblesessionid=158783487&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MTI6NDEgQU0maGFzaF92YWx1ZT1ZTXFsQy8vN1ZOWG5mSU42VjlwSXNnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75593735&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MDM6NDQgQU0maGFzaF92YWx1ZT1iVWllbXVhVlh3SXJpTFJJOHBZaG9RPT0mdmFsaWRtaW51dGVzPTI=
+https://sectigo.com/CPS0
+Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#
+http://ocsp.sectigo.com0
+http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v
+http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
+http://ocsp.usertrust.com0
+http://crl.comodoca.com/AAACertificateServices.crl04
+http://ocsp.comodoca.com0
+http://45.58.139.242:9630/toto/moviesnowhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjA6MTIgQU0maGFzaF92YWx1ZT1ya1dyWEtOcUh1cEtoYlRod25rZjN3PT0mdmFsaWRtaW51dGVzPTI=
+http://45.58.139.242:9630/toto/moviesnowhd/chunks.m3u8?nimblesessionid=75596541&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjA6MTIgQU0maGFzaF92YWx1ZT1ya1dyWEtOcUh1cEtoYlRod25rZjN3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
