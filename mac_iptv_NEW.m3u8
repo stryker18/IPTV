@@ -84,8 +84,20 @@ http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%
 http://ocsp.usertrust.com0
 http://crl.comodoca.com/AAACertificateServices.crl04
 http://ocsp.comodoca.com0
-http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjQ6NTUgQU0maGFzaF92YWx1ZT1iZm9GeDQ3S1AySWJadmdHMCs1NDV3PT0mdmFsaWRtaW51dGVzPTI=
-http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158786980&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6MjQ6NTUgQU0maGFzaF92YWx1ZT1iZm9GeDQ3S1AySWJadmdHMCs1NDV3PT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDM6MDAgQU0maGFzaF92YWx1ZT1VQU5ra2VENldnbWI0Vi9FNjNkdllBPT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=158792201&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIxIDk6NDM6MDAgQU0maGFzaF92YWx1ZT1VQU5ra2VENldnbWI0Vi9FNjNkdllBPT0mdmFsaWRtaW51dGVzPTI=
+http://crl.sca1b.amazontrust.com/sca1b.crl0
+http://ocsp.sca1b.amazontrust.com06
+http://crt.sca1b.amazontrust.com/sca1b.crt0
+http://ocsp.rootca1.amazontrust.com0:
+http://crt.rootca1.amazontrust.com/rootca1.cer0?
+http://crl.rootca1.amazontrust.com/rootca1.crl0
+http://ocsp.rootg2.amazontrust.com08
+http://crt.rootg2.amazontrust.com/rootg2.cer0=
+http://crl.rootg2.amazontrust.com/rootg2.crl0
+http://o.ss2.us/0!
+http://x.ss2.us/x.cer0&
+http://s.ss2.us/r.crl0
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png" group-title="Movies",MN+ HD
 https://sectigo.com/CPS0
