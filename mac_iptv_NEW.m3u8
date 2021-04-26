@@ -21,7 +21,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/320px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
+http://45.55.43.64:4245/ph2020/absdzmm/chunks.m3u8?nimblesessionid=325720&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6MzY6MTkgQU0maGFzaF92YWx1ZT1sMFgvdy94cWJkMTZuTkpURFloeHlRPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
