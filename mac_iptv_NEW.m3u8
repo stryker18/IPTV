@@ -2,7 +2,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="",Kapamilya Channel
-http://45.55.46.230:3546/ph2020/kapamilyachannel/chunks.m3u8?nimblesessionid=108855&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6Mzg6NTIgQU0maGFzaF92YWx1ZT0yblJsbzUvM21SZGJTVzVHVUVOZmRBPT0mdmFsaWRtaW51dGVzPTEy
+http://alphabetagama.ddns.net/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6Mzg6NTIgQU0maGFzaF92YWx1ZT0yblJsbzUvM21SZGJTVzVHVUVOZmRBPT0mdmFsaWRtaW51dGVzPTEy
+http://45.55.43.7:5458/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6Mzg6NTIgQU0maGFzaF92YWx1ZT0yblJsbzUvM21SZGJTVzVHVUVOZmRBPT0mdmFsaWRtaW51dGVzPTEy
+http://45.55.43.7:5458/ph2020/kapamilyachannel/chunks.m3u8?nimblesessionid=3541539&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6Mzg6NTIgQU0maGFzaF92YWx1ZT0yblJsbzUvM21SZGJTVzVHVUVOZmRBPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
 #EXTVLCOPT:http-user-agent=stream
