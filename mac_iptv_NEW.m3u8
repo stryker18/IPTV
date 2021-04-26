@@ -2,33 +2,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="",Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://45.55.44.162:6563/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6NTY6MzkgQU0maGFzaF92YWx1ZT14Mzh5emIvbzZzQm9HUVdLeDFYS1l3PT0mdmFsaWRtaW51dGVzPTEy
+http://alphabetagama.ddns.net/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDQ6MTQgQU0maGFzaF92YWx1ZT1TTVFGOC9JQlUzSEtHY1o3Tk9ERk1nPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
-#EXTVLCOPT:http-user-agent=stream
-http://45.55.43.64:4245/ph2020/tfc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6MzU6MzIgQU0maGFzaF92YWx1ZT1MR0tEZWd6bWRMa2dwY2U3QVgvbnhnPT0mdmFsaWRtaW51dGVzPTEy
+http://alphabetagama.ddns.net/ph2020/tfcasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDU6NTQgQU0maGFzaF92YWx1ZT1wS3NNTWxjd0N4c0hnc3poNGJRNk53PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="http://ptni.gov.ph/wp-content/uploads/2018/07/PTV-Logo-300x72.png" group-title="",PTV 4
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/101.m3u8
+http://alphabetagama.ddns.net/ph2020/peopletv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDY6NTUgQU0maGFzaF92YWx1ZT0wZXFmQ1htVHZ4T3psaVRVQ3N6RWF3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="'GMA" tvg-name="GMA" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5DSMlsc.jpg" group-title="",GMA
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="'GMA Pinoy TV" tvg-name="GMA Pinoy TV" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://uspto.report/TM/78546020/mark.png" group-title="",GMA Pinoy TV
+http://alphabetagama.ddns.net/ph2020/gmapinoy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDc6NDQgQU0maGFzaF92YWx1ZT1kU004WHljTHlrTmJNV3B0Q1pSK0ZnPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/320px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
-http://45.55.43.64:4245/ph2020/absdzmm/chunks.m3u8?nimblesessionid=325720&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDE6MzY6MTkgQU0maGFzaF92YWx1ZT1sMFgvdy94cWJkMTZuTkpURFloeHlRPT0mdmFsaWRtaW51dGVzPTEy
+http://alphabetagama.ddns.net/ph2020/peopletv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDY6NTUgQU0maGFzaF92YWx1ZT0wZXFmQ1htVHZ4T3psaVRVQ3N6RWF3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+http://alphabetagama.ddns.net/ph2020/anchd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MTA6MDAgQU0maGFzaF92YWx1ZT1IQkF4UVRMb2NoSUIvMjJLY3ZHUStRPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
@@ -37,10 +32,10 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo!_3D_Logo.png/revision/latest/scale-to-width-down/2000?cb=20210301131124" group-title="Movies",Cine Mo! Philippines
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8
+http://alphabetagama.ddns.net/ph2020/cinemo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MTA6MzQgQU0maGFzaF92YWx1ZT1UYm1VWTY2QURqbkdoZ2hoWkoxdUZRPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png" group-title="Movies",Cinema One Philippines
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8
+http://alphabetagama.ddns.net/ph2020/cinemaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MTE6MDUgQU0maGFzaF92YWx1ZT01THRJU25tK3Y0cEZUWUp2VFBQZ0ZnPT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/PBO_PNG-og_image.png/revision/latest/scale-to-width-down/2000?cb=20201209065132" group-title="Movies",PBO
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
