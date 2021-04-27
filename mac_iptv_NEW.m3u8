@@ -70,7 +70,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/93/d2/d993d2f4fb3b59c00f5168b66f3bab95.png" group-title="Movies",MNX HD
-http://dpasdl08.tth.cl:8745/eros/mnxhd/chunks.m3u8?nimblesessionid=162370510&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDY6MjI6MTggQU0maGFzaF92YWx1ZT1Ub05VdmZqa1VxaEdDbGZjM1hJQzNnPT0mdmFsaWRtaW51dGVzPTI=
+http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDY6NTU6MDMgQU0maGFzaF92YWx1ZT0yd2xWNHc0RVpMQVh4SjFHMXg1RElRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
@@ -110,7 +110,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-http://tvmedia2.com:8080/andrea/andrea/164199.m3u8
+https://hlscat.com/my_list/s/27c851e7bb457c0d44304505002f034c.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://img.favpng.com/20/17/0/paramount-pictures-paramount-channel-television-channel-paramount-network-png-favpng-eGgfQn9wRHXHWmjFAbWtYMDaZ_t.jpg" group-title="Movies",Paramount Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
