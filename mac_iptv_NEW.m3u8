@@ -2,6 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="",Kapamilya Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://alphabetagama.ddns.net/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDEyOjUyOjU4IFBNJmhhc2hfdmFsdWU9V2krNHV3QlZBRTFNb3ZLbGVxcG14Zz09JnZhbGlkbWludXRlcz0xMg==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
