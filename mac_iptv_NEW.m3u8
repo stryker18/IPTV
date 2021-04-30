@@ -2,11 +2,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="",Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://alphabetagama.ddns.net/ph2020/kapamilyachannel/playlist.m3u8
+http://www.digicert.com1/0-
+http://crl3.digicert.com/sha2-ha-server-g6.crl04
+http://crl4.digicert.com/sha2-ha-server-g6.crl0>
+http://www.digicert.com/CPS0
+http://ocsp.digicert.com0M
+Ahttp://cacerts.digicert.com/DigiCertSHA2HighAssuranceServerCA.crt0
+http://www.digicert.com1+0)
+http://ocsp.digicert.com0K
+http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl0=
+https://www.digicert.com/CPS0
+http://alphabetagama.ddns.net/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDE6MjY6MjEgUE0maGFzaF92YWx1ZT1iOFprbjhjUlhQbFJNMzZXeGRpUld3PT0mdmFsaWRtaW51dGVzPTEy
+http://46.249.33.44:4245/ph2020/kapamilyachannel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDE6MjY6MjEgUE0maGFzaF92YWx1ZT1iOFprbjhjUlhQbFJNMzZXeGRpUld3PT0mdmFsaWRtaW51dGVzPTEy
+http://46.249.33.44:4245/ph2020/kapamilyachannel/chunks.m3u8?nimblesessionid=298968&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDIxIDE6MjY6MjEgUE0maGFzaF92YWx1ZT1iOFprbjhjUlhQbFJNMzZXeGRpUld3PT0mdmFsaWRtaW51dGVzPTEy
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
 http://alphabetagama.ddns.net/ph2020/tfcasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDU6NTQgQU0maGFzaF92YWx1ZT1wS3NNTWxjd0N4c0hnc3poNGJRNk53PT0mdmFsaWRtaW51dGVzPTEy
