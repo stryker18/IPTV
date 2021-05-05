@@ -135,7 +135,7 @@ http://tvmedia2.com:8080/andrea/andrea/164323.m3u8
 http://tvmedia2.com:8080/andrea/andrea/164358.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
-https://fullenglish.xyz:443/monte/monte123/20483
+https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
 #KODIPROP:inputstreamaddon=inputstream.adaptive
