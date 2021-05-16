@@ -57,7 +57,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/302-3027403_fx-logo-fx-logo-white-png.png" group-title="Entertainment",FX
-http://ky-tv.cc:25461/tram/tram/176031?checkedby:hlscat.com
+https://hlscat.com/my_list/s/4faff33d045716a202e7a14d2ec0b086.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
@@ -121,27 +121,17 @@ http://gooserace.xyz:2052/ricky1/ricky1/1524267?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
 http://securepoint.io:83/live/promo/promo/142604.ts?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0
-#EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-disco-indonesia.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery US
-http://tvmedia2.com:8080/andrea/andrea/164323.m3u8
+https://hlscat.com/my_list/s/1b9d3f958839a4b07aa103933d4bbf01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://tvmedia2.com:8080/andrea/andrea/164358.m3u8
+https://hlscat.com/my_list/s/27d84fda8214dc328b914b169f1e7815.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
-https://cdn1.mobiletv.bg/T10/history/history_794613_850k.m3u8
+https://hlscat.com/my_list/s/c625d29fa7009e0edfae238d548e79a5.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=User%20Agent%2F26.0%20(Linux%3BAndroid%205.1.1)%20ExoPlayerLib%2F2.4.0 #EXTVLCOPT:http-user-agent=User Agent/26.0 (Linux;Android 5.1.1) ExoPlayerLib/2.4.0
-https://indotv.tech/m3u8sd/usee-natgeo-indonesia.m3u8
+https://hlscat.com/my_list/s/5ceb1b648421779f73d1754e4bb179be.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
