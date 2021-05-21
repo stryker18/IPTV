@@ -20,7 +20,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b22064
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/320px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
-http://alphabetagama.ddns.net/ph2020/peopletv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDY6NTUgQU0maGFzaF92YWx1ZT0wZXFmQ1htVHZ4T3psaVRVQ3N6RWF3PT0mdmFsaWRtaW51dGVzPTEy
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
 http://alphabetagama.ddns.net/ph2020/anchd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MTA6MDAgQU0maGFzaF92YWx1ZT1IQkF4UVRMb2NoSUIvMjJLY3ZHUStRPT0mdmFsaWRtaW51dGVzPTEy
