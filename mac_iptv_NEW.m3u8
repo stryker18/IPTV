@@ -5,10 +5,10 @@
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1621589553/ei/0SmnYPOaCrz74-EP-rmRuAo/ip/180.190.150.93/id/vBZ-_MF7OrI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKcVxziFe52r6IEcXRWm0B9qwXyJjRJVrxZ6rBnI9zX4AiBsiXPTEfs0XwbiJDrbrkfwi1jkDks-ioGFo9EVNAq0Bw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
-http://alphabetagama.ddns.net/ph2020/tfcasia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDU6NTQgQU0maGFzaF92YWx1ZT1wS3NNTWxjd0N4c0hnc3poNGJRNk53PT0mdmFsaWRtaW51dGVzPTEy
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="http://ptni.gov.ph/wp-content/uploads/2018/07/PTV-Logo-300x72.png" group-title="",PTV 4
-http://alphabetagama.ddns.net/ph2020/peopletv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDIxIDM6MDY6NTUgQU0maGFzaF92YWx1ZT0wZXFmQ1htVHZ4T3psaVRVQ3N6RWF3PT0mdmFsaWRtaW51dGVzPTEy
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/pfDPIbN.png" group-title="",TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
