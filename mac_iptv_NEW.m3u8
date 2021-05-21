@@ -49,7 +49,7 @@ http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/105.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="Kids",ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/2000?cb=20170519104225" group-title="Entertainment",FOX
@@ -67,13 +67,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="Movies",&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Movies_Now.png/revision/latest?cb=20110930233017" group-title="Movies",Movies Now
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/d9/93/d2/d993d2f4fb3b59c00f5168b66f3bab95.png" group-title="Movies",MNX HD
-http://dpasdl08.tth.cl:8745/eros/mnxhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIxIDY6NTU6MDMgQU0maGFzaF92YWx1ZT0yd2xWNHc0RVpMQVh4SjFHMXg1RElRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=stream
@@ -119,10 +112,10 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Movies"",AMC
-http://gooserace.xyz:2052/ricky1/ricky1/1524267?checkedby:hlscat.com
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/751
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
-http://securepoint.io:83/live/promo/promo/142604.ts?checkedby:hlscat.com
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2746
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
