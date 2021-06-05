@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/5AuYVFN.jpg" group-title="",Kapamilya Online Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1622884491/ei/K-y6YL2-Ku6j3LUPnf-toAs/ip/180.190.148.235/id/JFtQu85Ngq0.1/source/yt_live_broadcast/requiressl/yes/tx/24022811/txs/24022811%2C24022812%2C24022813%2C24022814%2C24022815%2C24022816%2C24022817%2C24022818%2C24022819/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEo8H6arlEPOa9egm4IplzKVRIg8APkLZnAusL9f7L4oCIAgIAxxc-7yJh-1c_O37N9kIfWzGGWbE_d_-qErR6H1T/file/index.m3u8
+https://www.youtube.com/watch?v=JFtQu85Ngq0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rwTWSbN/2000-cb-20180511214636.png" group-title="Local",TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
