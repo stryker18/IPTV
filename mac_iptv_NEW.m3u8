@@ -25,7 +25,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TeleRadyo_Logo.svg/320px-TeleRadyo_Logo.svg.png" group-title="News",TeleRadyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZMZtVYd/Pics-Art-10-31-01-28-39.png" group-title="News",ANC
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg" group-title="News",DZRH TV
@@ -49,11 +49,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel Asia
-http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/38573
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/715
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
-http://watch-myjokertv.xyz:8080/Honeybee/Honeybee/150269
+http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13900
 
 #EXTINF:-1 tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
@@ -112,9 +112,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ" tvg-logo="https://asset.entpay.9c9media.ca/image-service/version/c:YjRmYWU1MWUtZWU4NS00:ODUzMDYy/image.png" group-title="Movies",STARZ
-https://hlscat.com/my_list/s/27c851e7bb457c0d44304505002f034c.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://img.favpng.com/20/17/0/paramount-pictures-paramount-channel-television-channel-paramount-network-png-favpng-eGgfQn9wRHXHWmjFAbWtYMDaZ_t.jpg" group-title="Movies",Paramount Channel
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
@@ -122,7 +119,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 
 #EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/46/88/e6/4688e66e78ed451e0d55733386ead24d.jpg", TNT HD US
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/6354
+http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/117386
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Movies",AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
@@ -186,13 +183,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-https://hlscat.com/my_list/s/4d4c6643896ca4e5128627ba9f51fafc.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/abc/Live/video/4974899/a020b8ea31d4cf445986a00224a40640/284x160-Q75_a020b8ea31d4cf445986a00224a40640.png" group-title="News",ABC News
-http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2734
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2475
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fFr2ZGt/CBSN-NEW-YORK-LOG1.png" group-title="News",CBS News
 http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/master.m3u8
@@ -210,7 +207,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News
-http://51.52.156.22:8888/http/004
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/1154
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
