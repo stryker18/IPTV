@@ -10,6 +10,9 @@ https://www.youtube.com/channel/UCE2606prvXQc_noEqKxVJXA/live
 #EXTINF:-1 tvg-logo="http://ptni.gov.ph/wp-content/uploads/2018/07/PTV-Logo-300x72.png" group-title="",PTV 4 Live Stream
 https://www.youtube.com/user/PTVPhilippines/live
 
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="",Cinema One
+http://alphabetagama.ddns.net/ph2020/cinemaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDExOjA2OjM1IEFNJmhhc2hfdmFsdWU9czFiRSsvU2tTUytRelZJNkREeDV1dz09JnZhbGlkbWludXRlcz02
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
@@ -25,8 +28,8 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Animax_logo.svg/revision/latest/scale-to-width-down/2000?cb=20180730143228" group-title="Kids",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/2000?cb=20200320115508" group-title="Kids",Disney Channel
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/715
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_International_HD_logo.png/revision/latest/scale-to-width-down/300?cb=20180508213719" group-title="Kids",Disney International
+http://46.249.33.28:6677/kids2019/disneyint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDExOjE1OjI1IEFNJmhhc2hfdmFsdWU9eEdieGFYQ2xBWWttcmgvc3AyQk5rQT09JnZhbGlkbWludXRlcz02
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Nick_2009.svg/revision/latest/scale-to-width-down/2000?cb=20200621143348" group-title="Kids",Nickelodeon
 http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13900
