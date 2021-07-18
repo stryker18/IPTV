@@ -1,24 +1,8 @@
 #Mac IPTV
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="",Kapamilya Online Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
-
-#EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/abscbnmaster/news-fb.png" group-title="",ABS-CBN News Live
-https://www.youtube.com/channel/UCE2606prvXQc_noEqKxVJXA/live
-
-#EXTINF:-1 tvg-logo="http://ptni.gov.ph/wp-content/uploads/2018/07/PTV-Logo-300x72.png" group-title="",PTV 4 Live Stream
-https://www.youtube.com/user/PTVPhilippines/live
-
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18102541/cinema-one-logo-300x300.png" group-title="",Cinema One
-http://alphabetagama.ddns.net/ph2020/cinemaone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDExOjA2OjM1IEFNJmhhc2hfdmFsdWU9czFiRSsvU2tTUytRelZJNkREeDV1dz09JnZhbGlkbWludXRlcz02
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg" group-title="News",DZRH TV
-https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A/live
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
@@ -132,9 +116,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kBQSvsJ/IMG-20201226-104652.png" group-title="Local",Knowledge Channel
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f00d8786e0d5430.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png" group-title="Music",Channel V
 #KODIPROP:inputstreamaddon=inputstream.adaptive
