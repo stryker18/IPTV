@@ -2,6 +2,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="",Kapamilya Online Live
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/abs-cbnnews/abscbnmaster/news-fb.png" group-title="",ABS-CBN News Live
