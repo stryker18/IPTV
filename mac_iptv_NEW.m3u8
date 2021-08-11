@@ -51,9 +51,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paramount Channel" tvg-logo="https://img.favpng.com/20/17/0/paramount-pictures-paramount-channel-television-channel-paramount-network-png-favpng-eGgfQn9wRHXHWmjFAbWtYMDaZ_t.jpg" group-title="Movies",Paramount Channel
-https://list.iptvcat.com/my_list/s/a4ffce1b450c2e054acfafa8e1ecac92.m3u8
-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png", Sony Movie Channel HD 
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 
