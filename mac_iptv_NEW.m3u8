@@ -22,18 +22,11 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://biotechnodata.com/wp-content/uploads/2021/06/5e3d76e75257c.png" group-title="Movies",Popcorn Flix Action
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo_375086496.jpg" group-title="Movies",&Prive HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="Movies",Rakuten TV
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BK5wXjd/And-Flix-1.png" group-title="Movies",&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/list/1170x658withlogo_375086496.jpg" group-title="Movies",&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://trialforfree.com/wp-content/uploads/2020/07/Untitled.jpg" group-title="Movies",Movie Sphere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -68,7 +61,7 @@ http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/117386
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png" group-title="Movies"",AMC
-http://iptv.nador-sat.com:9300/ssps123/nwUxLew9J2/13835
+https://list.iptvcat.com/my_list/s/d4e9ca47cf754cdc323c5399d85cfc3b.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A&E" tvg-logo="https://banner2.cleanpng.com/20180414/siq/kisspng-a-e-network-high-definition-television-logo-dish-n-opening-5ad1b70ddfc487.4669073715236933259166.jpg" group-title="(no group)",A&E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
