@@ -1,8 +1,8 @@
 #Mac IPTV
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="",Kapamilya Online Live
-https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png" group-title="",Kapamilya Channel
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
