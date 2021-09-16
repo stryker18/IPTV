@@ -4,8 +4,17 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png" group-title="",Kapamilya Channel
 http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/11.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/og-image-5-network.jpg" group-title="",TV5
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/462-4627731_gma-network-logo-gma-network-logo-png-transparent.png" group-title="",GMA 7
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e0/GTV_3D_Logo_2021.png" group-title="",GTV
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -15,6 +24,12 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/53/PBO_%282020-.n.v.%29.png" group-title="Local",PBO
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/12.m3u8
+
+#EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
+http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/13.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon East (360p)
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
