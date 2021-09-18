@@ -2,22 +2,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png" group-title="",Kapamilya Channel
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/11.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/11.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/og-image-5-network.jpg" group-title="",TV5
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/8.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/462-4627731_gma-network-logo-gma-network-logo-png-transparent.png" group-title="",GMA 7
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/5.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/adobomagazine.com/wp-content/uploads/2015/10/ANC-News.JPG" group-title="",ANC
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/37.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/37.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e0/GTV_3D_Logo_2021.png" group-title="",GTV
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/7.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -29,30 +29,33 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/53/PBO_%282020-.n.v.%29.png" group-title="Local",PBO
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/12.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/12.m3u8
 
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/13.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon HD
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/28.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/28.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick JR.
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/27.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/25.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/25.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/359-3598939_disney-junior-hd-disney-junior-logo-2016.png" group-title="Kids",Disney Jr
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/26.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/26.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pxpng.com/public/uploads/preview/-11608029580r3jtkkmqtz.png" group-title="Kids",Cartoon Network
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/29.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/29.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="Kids",Animax
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/24.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/24.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Animation",Pluto TV Anime All Ages (720p)
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/dreamworks-animation-dreamworks-logo-11563027999vsb4jok7jf.png" group-title="Movies",Dreamworks
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/23.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Animation",Pluto TV Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
@@ -83,22 +86,19 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax Asia
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/16.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/16.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/165-1650818_fox-movies-fox-family-movies-logo.png" group-title="Movies",FOX Movies
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/17.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/17.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/608-6087575_fox-action-movies-logo-hd-png-download.png" group-title="Movies",FOX Action Movies
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/18.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/18.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/21.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="Movies",Hits Movies
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/22.m3u8
-
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/dreamworks-animation-dreamworks-logo-11563027999vsb4jok7jf.png" group-title="Movies",Dreamworks
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/23.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png", Sony Movie Channel HD 
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
@@ -113,28 +113,28 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/
 https://haunttv-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png" group-title="Movies",AXN HD
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/62.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/62.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/886/995/png-transparent-fox-broadcasting-company-television-channel-fox-life-fox-news-videoguard-television-text-orange.png" group-title="",FOX Channel
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/81.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/81.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="",FX
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/64.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/64.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="News",Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/45.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/45.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/49.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/49.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png" group-title="Educational",History
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/53.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/53.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/50.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -149,7 +149,7 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Myx/Myx-Logo.wine.png" group-title="Music",Myx Philippines
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/75.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/75.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -164,7 +164,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 tvg-id="CNN.News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-http://fp.visualsec.net:8443/live/yi2XYmX0sGxpKbOPiBAGSg/1631913498/38.m3u8
+http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/38.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
