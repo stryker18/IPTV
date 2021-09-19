@@ -41,7 +41,7 @@ http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/28.m3u8
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/25.m3u8
+http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/359-3598939_disney-junior-hd-disney-junior-logo-2016.png" group-title="Kids",Disney Jr
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/26.m3u8
