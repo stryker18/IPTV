@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png" group-title="",Kapamilya Channel
-https://www.youtube.com/watch?v=NhnMCK-X1qs
+https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/og-image-5-network.jpg" group-title="",TV5
 http://titanmedia.tech:8080/nickrom/nickrom/63314
