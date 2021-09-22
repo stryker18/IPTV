@@ -2,13 +2,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Kapamilya-Channel.png" group-title="",Kapamilya Channel
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/11.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/63313
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/og-image-5-network.jpg" group-title="",TV5
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/8.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/63314
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/462-4627731_gma-network-logo-gma-network-logo-png-transparent.png" group-title="",GMA 7
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/5.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/63291
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -29,19 +29,26 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/53/PBO_%282020-.n.v.%29.png" group-title="Local",PBO
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/12.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/63305
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5YVgT4y.png",VIVA CINEMA
+http://titanmedia.tech:8080/nickrom/nickrom/63316
+
+#EXTINF:-1 Tvg-name="Cinemo" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9a/Cine_Mo%21_3D_Logo.png",Cinemo
+http://titanmedia.tech:8080/nickrom/nickrom/63312
 
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/14.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufHOxMN.png" group-title="Kids",Nickelodeon HD
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/28.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/45936
 
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png" group-title="Kids",Nick JR.
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/27.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
 http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/19252
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/359-3598939_disney-junior-hd-disney-junior-logo-2016.png" group-title="Kids",Disney Jr
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/26.m3u8
@@ -134,7 +141,7 @@ http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/49.m3u8
 http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/53.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://assets.cdn.watchdisneyfe.com/ErrorPages/NatGeo/assets/natgeo-original/nat-geo@2x.png" group-title="Educational",National Geographic
-http://fp.visualsec.net:8443/live/4XiWuDBb5B1QggLZtpDd5w/1632070421/50.m3u8
+http://titanmedia.tech:8080/nickrom/nickrom/63265
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
