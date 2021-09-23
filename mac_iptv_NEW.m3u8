@@ -28,7 +28,7 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/500px-Nicktoons_UK_Logo_2010.svg.png",NickToons
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/2351
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS (576p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png",RetroCrush
@@ -67,11 +67,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/250px-HBO_Zone_%282014%29.svg.png",HBO Zone
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/6328
 
-#EXTINF:-1 tvg-logo="http://www.bbb.lol/uploads/tv_image/cinemax-moremax-hd.png" group-title="Movies",CINEMAXX MORE MAXX
+#EXTINF:-1 tvg-logo="http://www.bbb.lol/uploads/tv_image/cinemax-moremax-hd.png" group-title="Movies",Cinemax More Maxx
 http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81198
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
-http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png", Sony Movie Channel HD 
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
@@ -79,11 +76,8 @@ http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/885/1718885-middle.png" tvg-url="" group-title="",Star Movies
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 
-#EXTINF:-1 tvg-logo="http://103.65.184.145:8445/logo/54.png" tvg-url="" group-title="",SONY PIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-url="" group-title="",Sony Pix
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/78161
 
 #EXTINF:-1 tvg-id="SkyHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Hits
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/1086
@@ -102,6 +96,12 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/17041
 
 #EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png" group-title="Movies",PopCornFlix 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/78161
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="Series",Haunt TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
