@@ -7,9 +7,6 @@ http://qqtv.nl:8080/shah/shah123/330388
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/gma_news_tv.png",GMA News TV
-http://qqtv.nl:8080/shah/shah123/273496
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
