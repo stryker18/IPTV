@@ -1,8 +1,14 @@
 #Mac IPTV
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/tfc_ph.png",TFC HD
+http://qqtv.nl:8080/shah/shah123/330388
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/gma_news_tv.png",GMA News TV
+http://qqtv.nl:8080/shah/shah123/273496
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
@@ -15,6 +21,9 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
 http://qqtv.nl:8080/shah/shah123/52873
+
+#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/cinema_one_ph.png",CineMo
+http://qqtv.nl:8080/shah/shah123/273501
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
 http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
@@ -40,10 +49,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
 http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg" group-title="Movies",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&Privé HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg" group-title="Movies",&Privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
@@ -67,8 +76,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/250px-HBO_Zone_%282014%29.svg.png",HBO Zone
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/6328
 
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax HD
+http://wow.avm35-shop.com:8080/gBkDJW4jsa/8HgAwuFPQz/137308
+
 #EXTINF:-1 tvg-logo="http://www.bbb.lol/uploads/tv_image/cinemax-moremax-hd.png" group-title="Movies",Cinemax More Maxx
-http://rv.imax.re:80/3Tst9ZqgUA/2dqWR5IiMh/81198
+http://qqtv.nl:8080/shah/shah123/20907
+
+#EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/movie_max_us.png",Cinemax Moviemax HD
+http://qqtv.nl:8080/shah/shah123/20897
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png", Sony Movie Channel HD 
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
@@ -97,8 +112,8 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/17041
 #EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png" group-title="Movies",PopCornFlix 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/78161
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
+http://qqtv.nl:8080/shah/shah123/67138
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
