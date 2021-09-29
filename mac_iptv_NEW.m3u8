@@ -7,7 +7,7 @@ http://titanmedia.tech:8080/lovelang/lovelang/63313
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/tfc_ph.png",TFC HD
 http://qqtv.nl:8080/shah/shah123/330388
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/GMA_Network#/media/File:GMA_Network_Logo_Vector.svg",GMA
+#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
 http://titanmedia.tech:8080/lovelang/lovelang/63291
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
@@ -25,13 +25,13 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
 http://qqtv.nl:8080/shah/shah123/52873
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Cine_Mo!?file=Cine_mo.png",CineMo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
 http://qqtv.nl:8080/shah/shah123/273501
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://titanmedia.tech:8080/lovelang/lovelang/63305
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/PBO_(TV_channel)?file=VIVA_Cinema.jpg",Viva Cinema
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
 http://titanmedia.tech:8080/lovelang/lovelang/63316
 
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
@@ -70,7 +70,7 @@ http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies",&Privé HD
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
