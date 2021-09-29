@@ -25,23 +25,35 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
 http://qqtv.nl:8080/shah/shah123/52873
 
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Cine_Mo!#/media/File:Cine_Mo_logo.jpg",CineMo
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Cine_Mo!?file=Cine_mo.png",CineMo
 http://qqtv.nl:8080/shah/shah123/273501
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://titanmedia.tech:8080/lovelang/lovelang/63305
 
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/PBO_(TV_channel)?file=VIVA_Cinema.jpg",Viva Cinema
+http://titanmedia.tech:8080/lovelang/lovelang/63316
+
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
 http://titanmedia.tech:8080/lovelang/lovelang/63296
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Disney_Junior#/media/File:Disney_Junior.svg" group-title="Kids",Disney Junior
+http://titanmedia.tech:8080/lovelang/lovelang/63335
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/2286
+http://titanmedia.tech:8080/lovelang/lovelang/63345
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Nickelodeon_(Pakistani_TV_channel)#/media/File:Nick.svg",Nick
+http://titanmedia.tech:8080/lovelang/lovelang/63341
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/400px-Nick_Jr._logo_2009.svg.png",Nick Jr. Asia
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/500px-Nicktoons_UK_Logo_2010.svg.png",NickToons
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/2351
+
+#EXTINF:-1 tvg-logo="",Cartoons 01
+http://titanmedia.tech:8080/lovelang/lovelang/63522
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
@@ -79,8 +91,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax HD
-http://wow.avm35-shop.com:8080/gBkDJW4jsa/8HgAwuFPQz/137308
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
+http://titanmedia.tech:8080/lovelang/lovelang/63303
 
 #EXTINF:-1 tvg-logo="http://www.bbb.lol/uploads/tv_image/cinemax-moremax-hd.png" group-title="Movies",Cinemax More Maxx
 http://qqtv.nl:8080/shah/shah123/20907
@@ -100,17 +112,23 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png" group-title="Movies",PopCornFlix 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movie 01
+http://titanmedia.tech:8080/lovelang/lovelang/63508
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movie 02
+http://titanmedia.tech:8080/lovelang/lovelang/63509
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Movie 03
+http://titanmedia.tech:8080/lovelang/lovelang/63539
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/AXN#/media/File:AXN_logo_(2015).svg" group-title="Movies",AXN
+http://titanmedia.tech:8080/lovelang/lovelang/63332
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 http://qqtv.nl:8080/shah/shah123/67138
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
 http://203.154.243.89:11205/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jCaWSFK.png" group-title="Series",Haunt TV
-https://haunttv-roku.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="News",Entertainment Tonight
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/2/7/6/VKKZ0d4iLt/black-screen-actors-guild-award-symbol-and-white-text.jpg",TNT 
 http://31.220.41.88:8081/live/us-tnt.stream/chunks.m3u8
@@ -118,11 +136,17 @@ http://31.220.41.88:8081/live/us-tnt.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png",AMC
 http://stream.tvtap.live:8081/live/us-amc.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-chno="338" tvg-logo="https://en.wikipedia.org/wiki/Jackass_(franchise)#/media/File:Jackass-logo.gif",Jackass TV
+http://titanmedia.tech:8080/lovelang/lovelang/63507
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/755
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
 http://stream.tvtap.live:8081/live/ap9.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/History_(American_TV_network)#/media/File:History_Logo.svg",History
+http://titanmedia.tech:8080/lovelang/lovelang/63362
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
