@@ -7,6 +7,9 @@ http://titanmedia.tech:8080/lovelang/lovelang/63313
 #EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/tfc_ph.png",TFC HD
 http://qqtv.nl:8080/shah/shah123/330388
 
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/GMA_Network#/media/File:GMA_Network_Logo_Vector.svg",GMA
+http://titanmedia.tech:8080/lovelang/lovelang/63291
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
@@ -22,11 +25,14 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
 http://qqtv.nl:8080/shah/shah123/52873
 
-#EXTINF:-1 tvg-logo="http://38.143.137.20/logo/prestige/Philippines/cinema_one_ph.png",CineMo
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Cine_Mo!#/media/File:Cine_Mo_logo.jpg",CineMo
 http://qqtv.nl:8080/shah/shah123/273501
 
+#EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
+http://titanmedia.tech:8080/lovelang/lovelang/63305
+
 #EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/466-4667900_disney-channel-logo-png-disney-channel-logo-transparent.png" group-title="Kids",Disney Channel
-http://stream.tvtap.live:8081/live/disney.stream/chunks.m3u8
+http://titanmedia.tech:8080/lovelang/lovelang/63296
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/2286
@@ -47,7 +53,7 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
-http://210.210.155.35:80/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -73,9 +79,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/250px-HBO_Zone_%282014%29.svg.png",HBO Zone
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/6328
-
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax HD
 http://wow.avm35-shop.com:8080/gBkDJW4jsa/8HgAwuFPQz/137308
 
@@ -93,21 +96,6 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-url="" group-title="",Sony Pix
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-
-#EXTINF:-1 tvg-id="SkyHits.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Hits
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/1086
-
-#EXTINF:-1 tvg-id="SkyPremiere.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Premiere
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/1085
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Select
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/726
-
-#EXTINF:-1 tvg-id="SkySciFiHorror.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Sci-Fi & Horror
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/725
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sky_Cinema_-_Logo_2020.svg/440px-Sky_Cinema_-_Logo_2020.svg.png" group-title="Movies",Sky Cinema Showcase
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/17041
 
 #EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png" group-title="Movies",PopCornFlix 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
