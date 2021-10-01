@@ -35,10 +35,10 @@ http://titanmedia.tech:8080/lovelang/lovelang/63305
 http://titanmedia.tech:8080/lovelang/lovelang/63316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://titanmedia.tech:8080/lovelang/lovelang/63345
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",Nick
-http://titanmedia.tech:8080/lovelang/lovelang/63341
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/400px-Nick_Jr._logo_2009.svg.png",Nick Jr. Asia
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
@@ -83,7 +83,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
-http://titanmedia.tech:8080/lovelang/lovelang/63303
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax East
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbb.lol/uploads/tv_image/cinemax-moremax-hd.png" group-title="Movies",Cinemax More Maxx
 http://qqtv.nl:8080/shah/shah123/20907
@@ -119,7 +122,7 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/755
 http://stream.tvtap.live:8081/live/ap9.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-http://titanmedia.tech:8080/lovelang/lovelang/63362
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
