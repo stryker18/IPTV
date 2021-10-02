@@ -52,6 +52,9 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Animation",Pluto TV Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://cdna.artstation.com/p/assets/images/images/012/858/926/medium/devanshu-tak-logo-spiderman.jpg",Marvel HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
@@ -79,7 +82,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax Asia
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax East
