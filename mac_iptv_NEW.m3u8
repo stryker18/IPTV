@@ -7,8 +7,14 @@ http://titanmedia.tech:8080/romnick/naganaga/63313
 #EXTINF:-1 tvg-logo="https://data-starcinema.abs-cbn.com/starcinema/starcinema/media/october-2020/06/a2z-channel-11-820.jpg",A2Z
 http://titanmedia.tech:8080/romnick/naganaga/63273
 
+#EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
+http://titanmedia.tech:8080/romnick/naganaga/63314
+
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
 http://titanmedia.tech:8080/romnick/naganaga/63291
+
+#EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/GTV_Logos_(2021-present)?file=GTV_Logo_2021.png",GTV
+http://titanmedia.tech:8080/romnick/naganaga/63297
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -26,13 +32,13 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://qqtv.nl:8080/shah/shah123/52873
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-http://qqtv.nl:8080/shah/shah123/273501
+http://titanmedia.tech:8080/romnick/naganaga/63312
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
-http://titanmedia.tech:8080/lovelang/lovelang/63305
+http://titanmedia.tech:8080/romnick/naganaga/63305
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
-http://titanmedia.tech:8080/lovelang/lovelang/63316
+http://titanmedia.tech:8080/romnick/naganaga/63316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
