@@ -13,7 +13,7 @@ http://titanmedia.tech:8080/romnick/naganaga/63314
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
 http://titanmedia.tech:8080/romnick/naganaga/63291
 
-#EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/GTV_Logos_(2021-present)?file=GTV_Logo_2021.png",GTV
+#EXTINF:-1 tvg-logo="https://tribune.net.ph/wp-content/uploads/2021/09/gtv-2-1612942731.jpg",GTV
 http://titanmedia.tech:8080/romnick/naganaga/63297
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
@@ -126,14 +126,6 @@ http://stream.tvtap.live:8081/live/ap9.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
-
-
-
-#EXTINF:-1 tvg-id="H2.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-history2.png" group-title="Documentary",H2 (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
