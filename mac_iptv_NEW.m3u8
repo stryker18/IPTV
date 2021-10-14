@@ -28,9 +28,6 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canadianinquirer.net/v1/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="Local",Cinema One
-http://qqtv.nl:8080/shah/shah123/52873
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
 http://titanmedia.tech:8080/romnick/naganaga/63312
 
@@ -103,8 +100,8 @@ http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 #EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png",PopCornFlix 
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://flixtv.fun/wp-content/uploads/2021/01/FlixTV-Logo.jpg",FlixTV
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
+https://m3u-editor.com/serve/phciptv/256464187
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
 http://titanmedia.tech:8080/lovelang/lovelang/63332
