@@ -2,19 +2,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
-http://titanmedia.tech:8080/romnick/naganaga/63313
+http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63313
 
 #EXTINF:-1 tvg-logo="https://data-starcinema.abs-cbn.com/starcinema/starcinema/media/october-2020/06/a2z-channel-11-820.jpg",A2Z
-http://titanmedia.tech:8080/romnick/naganaga/63273
+http://titanmedia.tech:8080//Syete/B6ujk9gAJa/63273
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
-http://titanmedia.tech:8080/romnick/naganaga/63314
+http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63381
 
 #EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
-http://titanmedia.tech:8080/romnick/naganaga/63291
-
-#EXTINF:-1 tvg-logo="https://tribune.net.ph/wp-content/uploads/2021/09/gtv-2-1612942731.jpg",GTV
-http://titanmedia.tech:8080/romnick/naganaga/63297
+http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63291
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
