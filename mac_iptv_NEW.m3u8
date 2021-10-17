@@ -38,7 +38,7 @@ http://titanmedia.tech:8080/romnick/naganaga/63305
 http://titanmedia.tech:8080/romnick/naganaga/63316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/174684
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34713
 
 #EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",Nick
 https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
@@ -71,10 +71,16 @@ http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/
 http://sozare.com:80/75256546F59C/FCF08F088F4D/69498
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49557
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34717
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg",MN+ HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34699
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1354296699154538498/h3PhPUa9.jpg",MNX HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34698
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg",Movies Now
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/169118
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34697
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
@@ -103,11 +109,23 @@ http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/49539
 
-#EXTINF:-1 tvg-logo="https://blogsjunction.com/wp-content/uploads/2020/01/word-image-8.png",PopCornFlix 
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
 https://m3u-editor.com/serve/phciptv/256464187
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34688
+
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/ASIA/INDIAN/StarMoviesSelectHD.png",Star Movies Selevt HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34687
+
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/ASIA/INDIAN/starworldhdd.png",Star World HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34686
+
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/ASIA/INDIAN/SWP_HD.png",Star World Premier HD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34685
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/165079
@@ -115,20 +133,26 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/165079
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
-http://203.154.243.89:11205/
-
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png",AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
+http://sozare.com:80/75256546F59C/FCF08F088F4D/71313
+
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FX.png",FX
+http://sozare.com:80/75256546F59C/FCF08F088F4D/71335
+
+#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FXX.png",FXX
+http://sozare.com:80/75256546F59C/FCF08F088F4D/71336
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/755
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://stream.tvtap.live:8081/live/ap9.stream/chunks.m3u8
+http://sozare.com:80/75256546F59C/FCF08F088F4D/34716
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/279155
+http://sozare.com:80/75256546F59C/FCF08F088F4D/72200
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
