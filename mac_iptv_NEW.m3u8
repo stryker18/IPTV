@@ -107,7 +107,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
-http://mytv.fun:8080/live/fujbCHmmL4xrNhaK/xrUF2cgkDK9p2M4d/10607.m3u8|referer=http://188.93.236.53/live/fujbCHmmL4xrNhaK/xrUF2cgkDK9p2M4d/10607.m3u8?token=SRsHDVFGDwhUVAEFAANXUVMUF0BRXUdbUAQHAQUUEBdbXUReF1AMC1FYBhAUFBEMBhoPEQoNUlZSFh0TXVZWQAgbVkYZRldQERNURl0UW0dRCg0EGhVHBBlAEwsQVQEXChtKRlwUFwNHUA0CFgdYVUwJAAIWCFBWQxgTWVNLWkAIGwUGBVJTWlNXA1NaUAAHUQtQV1wIBllSVVNUUAxUA1cKREgXF0FYFxUXCBoUTUcGTUcRAhtHTUNSXhMIVkcOXhVEDUY7R1wWFUdXWVsEF0ACFwMaFUcMEV1VEwgaA1MGAURIFxBcVABDDwMOBVVTUQoCBw5E
+http://mytv.fun:8080/live/fujbCHmmL4xrNhaK/xrUF2cgkDK9p2M4d/10607.m3u8|referer=http://188.93.236.53:80/live/fujbCHmmL4xrNhaK/xrUF2cgkDK9p2M4d/10607.m3u8?token=SRsHDVFGDwhUVAEFAANXUVMUF0BRXUdbUAQHAQUUEBdbXUReF1AMC1FYBhAUFBEMBhoPEQoNUlZSFh0TXVZWQAgbVkYZRldQERNURl0UW0dRCg0EGhVHBBlAEwsQVQEXChtKRlwUFwNHUA0CFgdYVUwJAAIWCFBWQxgTWVNLWkAIGwUGBVJTWlNXA1NaUAAHUQtQV1wIBllSVVNUUAxUA1cKREgXF0FYFxUXCBoUTUcGTUcRAhtHTUNSXhMIVkcOXhVEDUY7R1wWFUdXWVsEF0ACFwMaFUcMEV1VEwgaA1MGAURIFxBcVABDDwMOBVVTUQoCBw5E
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
 https://m3u-editor.com/serve/phciptv/256464187
