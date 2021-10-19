@@ -107,7 +107,7 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49539
+http://45.58.139.242:9630/toto/sonypixhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSAzOjM5OjQ5IEFNJmhhc2hfdmFsdWU9WE1kM0RRZkZVbTQ3UVd0dGJiZHJjQT09JnZhbGlkbWludXRlcz0y|referer=http://45.58.139.242:9630/toto/sonypixhd/chunks.m3u8?nimblesessionid=117051958&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyMSAzOjM5OjQ5IEFNJmhhc2hfdmFsdWU9WE1kM0RRZkZVbTQ3UVd0dGJiZHJjQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
 https://m3u-editor.com/serve/phciptv/256464187
