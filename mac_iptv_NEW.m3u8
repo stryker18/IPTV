@@ -65,9 +65,6 @@ http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47059
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47058
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1354296699154538498/h3PhPUa9.jpg",MNX HD
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47061
-
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg",Movies Now
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47060
 
@@ -118,12 +115,6 @@ http://titanmedia.tech:8080/Syete/B6ujk9gAJa/49185
 
 #EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/49197
-
-#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FX.png",FX
-http://sozare.com:80/75256546F59C/FCF08F088F4D/71335
-
-#EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FXX.png",FXX
-http://sozare.com:80/75256546F59C/FCF08F088F4D/71336
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/45743
