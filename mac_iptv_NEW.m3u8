@@ -63,22 +63,18 @@ live/10005200/niZoVrR2vD/master.m3u8
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
-http://45.150.95.42:80/307211117776/307211117776/83613
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47059
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
-http://tv.zaintv.net:80/ijz822/vhk255/108275
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47058
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/0*G79fvNRSWWRaeY4n.png",MNX
-http://45.150.95.42:80/307211117776/307211117776/83605
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47061
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201809/mn.jpg",MN+
 http://45.150.95.42:80/307211117776/307211117776/83603
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg",Movies Now
-http://45.150.95.42:80/307211117776/307211117776/83604
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/47060
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
