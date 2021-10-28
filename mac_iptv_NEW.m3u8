@@ -99,16 +99,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
-http://mytv.fun:8080/99xctzjwoo/94tfra516t/677222
+http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/677222
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
-http://45.150.95.42:80/307211117776/307211117776/83703
+http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/10607
 
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63311
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies HD
-http://mytv.fun:8080/fujbCHmmL4xrNhaK/xrUF2cgkDK9p2M4d/672448
+http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/3981
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
 http://45.150.95.42:80/307211117776/307211117776/83610
@@ -120,10 +120,10 @@ http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63332
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png",AMC
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/49185
+http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/6363
 
 #EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/49197
+http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/14399
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/45743
