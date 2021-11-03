@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
 http://nplay.is:2095/eZDTc77RCK/UMKv9fHA89/31053
 
-#EXTINF:-1 tvg-logo="https://data-starcinema.abs-cbn.com/starcinema/starcinema/media/october-2020/06/a2z-channel-11-820.jpg",A2Z
-http://ay82.aatvbox.club:8880/xzyc12m7462/tA8rfc75RR/50128|referer=http://a21.aatvbox.club:8880/xzyc12m7462/tA8rfc75RR/50128?token=TBRRBxJfEA9BWwYPAFQAVwtXV1UFA1JXBVUJAlJRAlcCVw5VVFMEAVYaHBtCRUIEWV5tC1QTC1cBVAoMGBJCElJEZg8FFQgXWwkCAAgTHENMWl8HEgsAVAJRDgUCAAdVGxRJDwUVCBdSDQkJBxMcQ11LRgdCX1AObgFdQl1TUkMNWEwKDRsQWg1nVFxcUF4FGgkQUxIdEwtCFRoOWkVbDRsUWw8VRVNBBhoKGwACCFgaHxABX0RfFkMcGg4WYH9DGxRcHhVSXEYKV14bCxNEEhofEAtDbkMHQhFKUVVdUhMVDBtWQxsQWAJAb1peX14EW0dbDV5CE1gTVBoYFl1YD15CVhQ+R1tRQQISCAQJCVcaTg==
-
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/49969
 
@@ -32,7 +29,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/50119
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63312
+http://ingrid.ltd:25461/jfso/BXVhhKh5/40270
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63305
@@ -54,10 +51,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 
 #EXTINF:-1 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-
-#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" group-title="Animation",Pluto TV Anime All Ages
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-live/10005200/niZoVrR2vD/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
