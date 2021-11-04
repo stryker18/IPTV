@@ -20,7 +20,7 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg",DZRH NEWS TV
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63275
+http://test.thesmartiptv.com:900/7363047779/8371111641/400252263
 
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -29,10 +29,10 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/50119
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-http://ingrid.ltd:25461/jfso/BXVhhKh5/40270
+http://test.thesmartiptv.com:900/7363047779/8371111641/400252266
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63305
+http://test.thesmartiptv.com:900/7363047779/8371111641/400252260
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63316
@@ -119,7 +119,7 @@ http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/3162
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/3167
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/71071
+http://test.thesmartiptv.com:900/7363047779/8371111641/400252262
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
 http://45.150.95.42:80/307211117776/307211117776/83685
