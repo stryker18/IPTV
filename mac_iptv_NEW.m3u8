@@ -53,7 +53,7 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
-http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34718
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115601
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34717
@@ -104,13 +104,16 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34688
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34687
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
-http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/71094
+http://45.179.140.242:8000/play/a0ia
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/8/24/11/universal-channel-television-channel-studio-universal-universal-tv-png-favpng-EcgQZCxmja4SK4LCAxqMeMtfH.jpg" group-title="Movies",Universal
+http://45.179.140.242:8000/play/a0jw
 
 #EXTINF:-1 tvg-logo="https://www.flysat-live.com/logo/Greece/startv.png",Star HD Greece
 http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/455
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
-http://mains.services:2086/nick5404/9928627/93235
+http://45.179.140.242:8000/play/a0j9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71891
@@ -122,10 +125,10 @@ http://jovi.poio.pw:8080/TIG5Ya2VfC/LA7GvuCQZT/15
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71313
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://jovi.poio.pw:8080/TIG5Ya2VfC/LA7GvuCQZT/70
+http://45.179.140.242:8000/play/a0i8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://mains.services:2086/nick5404/9928627/93231
+http://45.179.140.242:8000/play/a0i9
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
 http://mla03.wanicelife.com:8880/SFL1212697/F9GNH7H9/50118
