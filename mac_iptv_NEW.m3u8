@@ -56,7 +56,7 @@ http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/115601
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
-http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34717
+http://mains.services:2086/nick5404/9928627/91908
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/0*G79fvNRSWWRaeY4n.png",MNX
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34698
@@ -69,21 +69,6 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34697
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://i.ibb.co/hcqXyL5/HBO-HiTS.png" group-title="Movies",HBO Hits
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbf.Asia" tvg-logo="https://i.ibb.co/7rVLTHd/HBO-Family-Asia.png" group-title="Movies",HBO Family
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="Hbs.Asia" tvg-logo="https://i.ibb.co/nPV5sNk/HBO-Signature-Asia.png" group-title="Movies",HBO Signature
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax Asia
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
@@ -123,6 +108,9 @@ http://jovi.poio.pw:8080/TIG5Ya2VfC/LA7GvuCQZT/15
 
 #EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71313
+
+#EXTINF:-1 tvg-logo="https://www.24spoilers.com/wp-content/uploads/2018/07/24-TV-logo.jpg",24 (Series)
+http://mains.services:2086/nick5404/9928627/18409
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 http://45.179.140.242:8000/play/a0i8
