@@ -7,9 +7,6 @@ http://mains.services:2086/nick5404/9928627/98644
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
 http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31018
 
-#EXTINF:-1 tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png",GMA
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63291
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
@@ -176,7 +173,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/24775
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yc1kVr5/bloomberg-business-logo.png" group-title="News", Bloomberg Business
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
