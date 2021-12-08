@@ -2,10 +2,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
-http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/220932.ts
+http://ky-tv.cc:25461/David59459/2354545444/949333
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31018
+http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3eoDE964SKDd_Y8v1XLGctik
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -15,9 +15,6 @@ https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/DZRH_News_Television_logo.jpg",DZRH NEWS TV
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/41236
 
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="Local",TVShop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -94,9 +91,6 @@ http://45.179.140.242:8000/play/a0ia
 #EXTINF:-1 tvg-logo="https://img.favpng.com/8/24/11/universal-channel-television-channel-studio-universal-universal-tv-png-favpng-EcgQZCxmja4SK4LCAxqMeMtfH.jpg" group-title="Movies",Universal
 http://45.179.140.242:8000/play/a0jw
 
-#EXTINF:-1 tvg-logo="https://www.flysat-live.com/logo/Greece/startv.png",Star HD Greece
-http://xtream-ui03.feel-tv.com:25461/Vwelsbfa/widnv39573sldba/455
-
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
 http://45.179.140.242:8000/play/a0j9
 
@@ -111,9 +105,6 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71313
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a2/a212fe9bf406a25d8169dc21c035bc6b.jpeg",Fox
 http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/229072.ts
-
-#EXTINF:-1 tvg-logo="https://www.24spoilers.com/wp-content/uploads/2018/07/24-TV-logo.jpg",24 (Series)
-http://mains.services:2086/nick5404/9928627/18409
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
 http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153953.ts
