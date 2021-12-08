@@ -68,6 +68,13 @@ http://ky-tv.cc:25461/David59459/2354545444/770259
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/685038
+http://iptv.tvmalaysia.cc:80/penang189/penang189/7067
+
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO US
+http://livetv2021.site:8080/9897876765/6576567/125
+
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO+
+http://livetv2021.site:8080/9897876765/6576567/127
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/685177
@@ -83,9 +90,6 @@ http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/677222
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
 http://ky-tv.cc:25461/David59459/2354545444/1122225
-
-#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg",Celestial Movies
-http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63311
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies HD
 http://ky-tv.cc:25461/David59459/2354545444/770438
@@ -109,7 +113,7 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/4926
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/4959
 
 #EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
-http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/14399
+http://livetv2021.site:8080/9897876765/6576567/6647
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a2/a212fe9bf406a25d8169dc21c035bc6b.jpeg",Fox
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
