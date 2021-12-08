@@ -32,10 +32,10 @@ http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31028
 http://titanmedia.tech:8080/Syete/B6ujk9gAJa/63316
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://mains.services:2086/nick5404/9928627/93238
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/14387
 
 #EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",Nick
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31029http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/31029
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13744
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png",ANIMAX
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
@@ -67,6 +67,9 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34697
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://eurocast1.com:8000/Sulyman4uk/recepdamat27/33079
 
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
+http://eurocast1.com:8000/Sulyman4uk/recepdamat27/33079
+
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax Asia
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
@@ -95,25 +98,28 @@ http://45.179.140.242:8000/play/a0jw
 http://45.179.140.242:8000/play/a0j9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
-http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71891
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/4926
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png",AMC
-http://jovi.poio.pw:8080/TIG5Ya2VfC/LA7GvuCQZT/15
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/4959
 
 #EXTINF:-1 tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png",A&E UHD
-http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/71313
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/14399
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/a2/a212fe9bf406a25d8169dc21c035bc6b.jpeg",Fox
-http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/229072.ts
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
+
+#EXTINF:-1 tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/USA-Logo-White-450x198.png",USA Network
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/153953.ts
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/690787
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://eurocast1.com:8000/Sulyman4uk/recepdamat27/33067
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/6362
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-http://dmtn.tv:80/taha1987inter13/taha1987inter2c3/306185.ts
+http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/684749
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
