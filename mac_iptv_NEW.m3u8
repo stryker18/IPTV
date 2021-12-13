@@ -7,6 +7,12 @@ http://ky-tv.cc:25461/%44%61%76%69%64%35%39%34%35%39%2F%32%33%35%34%35%34%35%34%
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
 http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3eoDE964SKDd_Y8v1XLGctik
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5DSMlsc.jpg",GMA 7
+http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3eimGAUQ67MoY6YjgwRfZQe0
+
+#EXTINF:-1 tvg-logo="https:/i.imgur.com/l5mSpWk.jpg",A2Z
+http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3euNdqx7Uf-f3wipohiuMfFw
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
@@ -38,7 +44,7 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/14387
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13744
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png",ANIMAX
-http://iptv.tvmalaysia.cc:80/penang189/penang189/6696
+http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3em_QWmsZa0CgmklgKAmLbWs
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
@@ -50,10 +56,10 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
-http://ky-tv.cc:25461/David59459/2354545444/769972
+
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
-http://mains.services:2086/nick5404/9928627/91908
+http://ky-tv.cc:25461/David59459/2354545444/769972
 
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/0*G79fvNRSWWRaeY4n.png",MNX
 http://ky-tv.cc:25461/David59459/2354545444/1123364
@@ -65,7 +71,7 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34699
 http://ky-tv.cc:25461/David59459/2354545444/770259
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/685038
+http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3enkp3HPyJvwkjvsW2h6hGXs
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO US
 http://livetv2021.site:8080/9897876765/6576567/125
