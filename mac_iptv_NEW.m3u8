@@ -85,9 +85,6 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/685177
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax Asia
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
-#EXTINF:-1,tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax East
-http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/4912
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
 http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/677222
 
