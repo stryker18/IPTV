@@ -68,7 +68,12 @@ http://ky-tv.cc:25461/David59459/2354545444/1123364
 http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34699
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg",Movies Now
-http://ky-tv.cc:25461/David59459/2354545444/770259
+http://ip.xtremetv.eu:8000/megaott1000/4p7c4mMdLn/65005
+
+#EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO TEST
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3enkp3HPyJvwkjvsW2h6hGXs
