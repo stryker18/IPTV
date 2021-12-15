@@ -4,14 +4,14 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/144837
 
+#EXTINF:-1 xui-id="2599073" tvg-id="" tvg-name="NBN 4" tvg-logo="https://cms.cignal.tv/Upload/Images/ptv-4.png" group-title="PHILIPPINES",PTV 4
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRoFOFdiTIXjKHWbrXHwnSH8
+
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266852
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRoR6HiuYd1QfO2kNSDEECLw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5DSMlsc.jpg",GMA 7
 http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3eimGAUQ67MoY6YjgwRfZQe0
-
-#EXTINF:-1 tvg-logo="https:/i.imgur.com/l5mSpWk.jpg",A2Z
-http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3euNdqx7Uf-f3wipohiuMfFw
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
@@ -37,14 +37,14 @@ http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3elCWyzPBjUSAPfM6zD5OaB0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/276531
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/14387
+#EXTINF:-1 xui-id="2599140" tvg-id="" tvg-name="CARTOON NET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="PHILIPPINES",CARTOON NET HD
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrCnKrC9cxsAXwm2-Plbf7E
 
-#EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",Nick
-http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13744
+#EXTINF:-1 xui-id="2599136" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PHILIPPINES",NICKELODEON
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrGqfxf8TT8gtKbRcMJpXz0
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png",ANIMAX
-http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3em_QWmsZa0CgmklgKAmLbWs
+#EXTINF:-1 xui-id="2599121" tvg-id="" tvg-name="ANIMAX" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="PHILIPPINES",ANIMAX
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRvpcAiBUVBi201TcapdyI5c
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
@@ -52,8 +52,8 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
-#EXTINF:-1 tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png",eGG Network
-http://210.210.155.35/session/d1b3a4ce-2ef5-11eb-87e1-c81f66f89318/uq2663/h/h22/01.m3u8
+#EXTINF:-1 xui-id="2599072" tvg-id="" tvg-name="EGG" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="PHILIPPINES",EGG
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRqrIjm5Ht3ak6G7E_lL16Y0
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45506
@@ -93,6 +93,9 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/4953
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/11511
+
+#EXTINF:-1 xui-id="2599106" tvg-id="" tvg-name="CELESTIAL MOV PINOY" tvg-logo="" group-title="PHILIPPINES",CELESTIAL MOV PINOY
+http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRn05KFthg5-2h5d6LUzk8NQ
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
 http://livetv2021.site:8080/9897876765/6576567/6650
