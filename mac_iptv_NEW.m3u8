@@ -2,7 +2,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
-http://qqtv.nl:8080/simon99/simon99/66640
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642417112/ei/d_fkYdrzPNb84-EPxJ-DoAY/ip/180.190.231.4/id/mYyoXeL6oCg.1/source/yt_live_broadcast/requiressl/yes/tx/24129500/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOWCSQMjS8oBsExNmsnrYVW2V2Uxa_d5hHNm9RaIR9kmAiBjkb5xp-YLf7WrNZboNG__9Cge-E0WHNUgQHJxSucDtQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 xui-id="2599073" tvg-id="" tvg-name="NBN 4" tvg-logo="https://cms.cignal.tv/Upload/Images/ptv-4.png" group-title="PHILIPPINES",PTV 4
 http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRoFOFdiTIXjKHWbrXHwnSH8
@@ -26,7 +26,7 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRpvAOF4dL-sljR9smjLmUE8
+http://qqtv.nl:8080/Mike1234/Mike1234/52873
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
 http://qqtv.nl:8080/simon99/simon99/273501
@@ -37,23 +37,20 @@ http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3elCWyzPBjUSAPfM6zD5OaB0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/276531
 
-#EXTINF:-1 xui-id="2599140" tvg-id="" tvg-name="CARTOON NET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png" group-title="PHILIPPINES",CARTOON NET HD
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrCnKrC9cxsAXwm2-Plbf7E
+#EXTINF:-1 xui-id="2599140" tvg-id="" tvg-name="CARTOON NET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37403
 
 #EXTINF:-1 xui-id="2599136" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PHILIPPINES",NICKELODEON
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrGqfxf8TT8gtKbRcMJpXz0
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37404
 
 #EXTINF:-1 xui-id="2599121" tvg-id="" tvg-name="ANIMAX" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="PHILIPPINES",ANIMAX
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRvpcAiBUVBi201TcapdyI5c
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/2
 
 #EXTINF:-1 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-
-#EXTINF:-1 xui-id="2599072" tvg-id="" tvg-name="EGG" tvg-logo="https://battle-arena.my/wp-content/uploads/2018/09/egg_logo_reversed__B.png" group-title="PHILIPPINES",EGG
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRqrIjm5Ht3ak6G7E_lL16Y0
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
 http://qqtv.nl:8080/simon99/simon99/7252
@@ -71,7 +68,7 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34699
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/169118
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://183.178.58.115:8032/0.ts
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/210
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO US
 http://livetv2021.site:8080/9897876765/6576567/125
@@ -80,10 +77,10 @@ http://livetv2021.site:8080/9897876765/6576567/125
 http://livetv2021.site:8080/9897876765/6576567/127
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/6328
+http://forevertv.me:8080/nader1234/12345678/153281
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax Asia
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37375
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
 http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/677222
@@ -95,13 +92,13 @@ http://qqtv.nl:8080/simon99/simon99/7258
 http://smartestv.vip:2095/ABHVYOP/2387998104/1663
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
-http://livetv2021.site:8080/9897876765/6576567/6650
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/1533
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/8/24/11/universal-channel-television-channel-studio-universal-universal-tv-png-favpng-EcgQZCxmja4SK4LCAxqMeMtfH.jpg" group-title="Movies",Universal
 http://livetv2021.site:8080/9897876765/6576567/121
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
-http://livetv2021.site:8080/9897876765/6576567/6698
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78161
@@ -119,13 +116,13 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://livetv2021.site:8080/9897876765/6576567/6655
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/95
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://livetv2021.site:8080/9897876765/6576567/929
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/358
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-http://livetv2021.site:8080/9897876765/6576567/6649
+https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/8131
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
