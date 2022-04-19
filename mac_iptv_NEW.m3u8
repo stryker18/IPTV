@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1642417112/ei/d_fkYdrzPNb84-EPxJ-DoAY/ip/180.190.231.4/id/mYyoXeL6oCg.1/source/yt_live_broadcast/requiressl/yes/tx/24129500/txs/24129500%2C24129501%2C24129502%2C24129503%2C24129504%2C24129505/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOWCSQMjS8oBsExNmsnrYVW2V2Uxa_d5hHNm9RaIR9kmAiBjkb5xp-YLf7WrNZboNG__9Cge-E0WHNUgQHJxSucDtQ%3D%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo.png",A2Z
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/143964
+
 #EXTINF:-1 xui-id="2599073" tvg-id="" tvg-name="NBN 4" tvg-logo="https://cms.cignal.tv/Upload/Images/ptv-4.png" group-title="PHILIPPINES",PTV 4
 http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRoFOFdiTIXjKHWbrXHwnSH8
 
@@ -26,10 +29,10 @@ https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
-http://qqtv.nl:8080/Mike1234/Mike1234/52873
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/10056
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-http://qqtv.nl:8080/simon99/simon99/273501
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/41392
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://tigerfights.xyz:80/play/FMB4Xijlx-qsmBdW_rK3elCWyzPBjUSAPfM6zD5OaB0
@@ -41,7 +44,7 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2765
 https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/37403
 
 #EXTINF:-1 xui-id="2599136" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PHILIPPINES",NICKELODEON
-http://37.19.203.217:8085/udp/239.10.10.40:5000
+http://mains.services:2086/live/stanleyg/6916329/93232.m3u8
 
 #EXTINF:-1 xui-id="2599121" tvg-id="" tvg-name="ANIMAX" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="PHILIPPINES",ANIMAX
 https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/3
@@ -74,13 +77,13 @@ http://37.19.203.217:6161/udp/239.100.10.176:5000
 http://37.19.203.217:8085/udp/239.10.10.5:5000
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO+
-http://livetv2021.site:8080/9897876765/6576567/127
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/23407
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
 http://forevertv.me:8080/nader1234/12345678/153281
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
-http://37.19.203.217:8085/udp/239.10.10.6:5000
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/24685
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
 http://mytv.fun:8080/ceyikzdtpf/9lkfz7y389/677222
@@ -98,7 +101,7 @@ https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/1533
 http://livetv2021.site:8080/9897876765/6576567/121
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
-https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/9
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/143971
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/78161
@@ -119,7 +122,7 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/95
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://37.19.203.217:8085/udp/239.10.10.24:5000
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/143967
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
 http://37.19.203.217:6161/udp/239.100.10.157:5000
