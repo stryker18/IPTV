@@ -11,7 +11,7 @@ https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5DSMlsc.jpg",GMA 7
-http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrB1CPn3xjbEKeawM9zsiq8
+https://ln.run/1fZGp
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png",GTV
 https://wag.ika.lat/stream/872206966
@@ -21,9 +21,6 @@ https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 
 #EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/ABS-CBN_News_Channel?file=ANC_Logo_2015.png" group-title="",ANC
 https://list.iptvcat.com/my_list/s/ba700f763db2bd863ac023b6a2d5c74e.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
@@ -38,10 +35,10 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/VIVA_Cinema_Logo.PNG",Viva Cinema
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307819
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",Celestial Movies
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307677
@@ -62,11 +59,10 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307662
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
-http://209.58.178.169:8002/play/a06d
+https://ln.run/6OaJx
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
-http://209.58.178.169:8002/play/a08g
-
+https://ln.run/AYPv-
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/0*G79fvNRSWWRaeY4n.png",MNX
 http://ky-tv.cc:25461/David59459/2354545444/1123364
 
@@ -77,28 +73,31 @@ http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34699
 http://supercamp.cfd:8080/live/51666620600636030/4931666620600636/53548.ts
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125611
+http://apkandweb.ddns.net/6377635294/6663568605/691
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO 2
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125613
+http://apkandweb.ddns.net/6377635294/6663568605/692
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO+
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/23407
 
 #EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/100930
+http://apkandweb.ddns.net/6377635294/6663568605/697
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
-http://190.27.172.231:25000/play/a046
+http://apkandweb.ddns.net/6377635294/6663568605/1020434
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125650
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
-http://supercamp.cfd:8080/live/51666620600636030/4931666620600636/53625.ts
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies HD
-http://supercamp.cfd:8080/live/51666620600636030/4931666620600636/53644.ts
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/19/25/18/star-movies-television-channel-fox-movies-logo-png-favpng-EnNiJsKhabAyndskrH07YSG77.jpg",Star Movies SELECT
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/759/296/png-transparent-warner-tv-television-channel-wb-channel-television-show-the-big-bang-theory-miscellaneous-television-text.png" group-title="Movies",Warner TV
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307820
@@ -128,13 +127,13 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307699
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307660
+https://bit.ly/3NLunsn
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307731
+https://bit.ly/3Ykz0yq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471386&extension=ts&play_token=ptPQQmYaig
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Educational",CGTN Documentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
@@ -161,7 +160,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://ln.run/PHCNN
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRt8unVkO8p738FxQTCYNHdAFj5YU9CLFT-bw&usqp=CAU" group-title="News",Fox News Channel
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
