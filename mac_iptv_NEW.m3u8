@@ -32,10 +32,10 @@ http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
-https://list.iptvcat.com/my_list/s/5c90b9862ed52cca3ccc2d72e65b27e1.m3u8
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-https://list.iptvcat.com/my_list/s/d8969594b6d447dda5a3ddb40a578f45.m3u8
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
@@ -158,7 +158,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/Myx_Logos_(2021-present)?file=Myx_Logo_2021.png" group-title="Music",MYX
-https://list.iptvcat.com/my_list/s/744322ef4665d2e16e9f80c56b951920.m3u8
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
