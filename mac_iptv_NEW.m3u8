@@ -1,23 +1,26 @@
 #Mac IPTV
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/bf/Kapamilya_Channel_%282020-.n.v.%29.png",Kapamilya Channel
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307741
-
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/10/21172907/a2z-logo.png",A2Z
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307655
+#EXTINF:-1 tvg-logo="https://abs-cbn.fandom.com/wiki/A2Z?file=A2Z.png",A2Z
+https://list.iptvcat.com/my_list/s/4e7ef682c1ff69dc3be440e812d88983.m3u8
 
 #EXTINF:-1 xui-id="2599073" tvg-id="" tvg-name="NBN 4" tvg-logo="https://cms.cignal.tv/Upload/Images/ptv-4.png" group-title="PHILIPPINES",PTV 4
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307784
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tv5.com.ph/assets/images/five-logo-red.png",TV 5
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307810
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5DSMlsc.jpg",GMA 7
 http://tigerfights.xyz:80/play/C_JPeXfZ7q9q9-d6oVVwRrB1CPn3xjbEKeawM9zsiq8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png",GTV
+https://wag.ika.lat/stream/872206966
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxKb7yF.jpg" group-title="",TeleRadyo
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307798
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+
+#EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/ABS-CBN_News_Channel?file=ANC_Logo_2015.png" group-title="",ANC
+https://list.iptvcat.com/my_list/s/ba700f763db2bd863ac023b6a2d5c74e.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/CNN_Philippines_Logo.svg/revision/latest/scale-to-width-down/2000?cb=20200505183052" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
@@ -29,10 +32,10 @@ http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307680
+https://list.iptvcat.com/my_list/s/5c90b9862ed52cca3ccc2d72e65b27e1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c1/Cine_Mo%21_Logo.png",CineMo
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307683
+https://list.iptvcat.com/my_list/s/d8969594b6d447dda5a3ddb40a578f45.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png",PBO
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307778
@@ -104,7 +107,7 @@ http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307820
 http://livetv2021.site:8080/9897876765/6576567/121
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/AXN-New-Logo-(Black).jpg",AXN
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307665
+https://wag.ika.lat/stream/2084767267
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125678
@@ -154,6 +157,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/Myx_Logos_(2021-present)?file=Myx_Logo_2021.png" group-title="Music",MYX
+https://list.iptvcat.com/my_list/s/744322ef4665d2e16e9f80c56b951920.m3u8
+
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/2000?cb=20180509053533" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
@@ -173,7 +179,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307667
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
