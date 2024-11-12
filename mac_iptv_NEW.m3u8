@@ -25,6 +25,9 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.dzrh.com.ph/dzrh-logo.svg" group-title="",DZRH
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
