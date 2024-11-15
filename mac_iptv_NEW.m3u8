@@ -48,15 +48,22 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
+#EXTINF:-1 tvg-logo="https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2022/12/disney_channel_logo_from_disneychannelca.jpg",Disney Channel
+http://apkandweb.ddns.net/6377635294/6663568605/657
+
+#EXTINF:-1 tvg-logo="https://thewaltdisneycompany.com/app/uploads/2021/02/021221_Disney-Junior-10th-Anniversary-00.jpg",Disney Jr.
+http://apkandweb.ddns.net/6377635294/6663568605/657
+
 #EXTINF:-1 xui-id="2599140" tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/440px-Cartoon_Network_2010_logo.svg.png",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 xui-id="2599136" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PHILIPPINES",NICKELODEON
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+http://apkandweb.ddns.net/6377635294/6663568605/675
+
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0056582.png",Teen Nick
+http://apkandweb.ddns.net/6377635294/6663568605/678
 
 #EXTINF:-1 xui-id="2599121" tvg-id="" tvg-name="ANIMAX" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="PHILIPPINES",ANIMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,9 +95,7 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/23407
 http://apkandweb.ddns.net/6377635294/6663568605/697
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
+http://apkandweb.ddns.net/6377635294/6663568605/681
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
