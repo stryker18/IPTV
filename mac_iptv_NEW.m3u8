@@ -22,13 +22,13 @@ https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest/scale-to-width-down/2000?cb=20130823135759" group-title="Local",Central Luzon Television 36
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dzrh.com.ph/dzrh-logo.svg" group-title="",DZRH
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One PH
+https://ln.run/Zc85c
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Cinema_One/Cinema_One-Logo.wine.png",Cinema One Global
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",CineMo
@@ -54,30 +54,26 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 xui-id="2599136" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PHILIPPINES",NICKELODEON
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307763
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #EXTINF:-1 xui-id="2599121" tvg-id="" tvg-name="ANIMAX" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png" group-title="PHILIPPINES",ANIMAX
-https://nonton.site:8443/IGRKg9OA4w/hshjs45678khtsdj/3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bk7YXZy.png" group-title="Kids",ANIPLUS
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307662
-
-#EXTINF:-1 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png",RetroCrush
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+https://ln.run/fNDoA
 
 #EXTINF:-1 tvg-logo="https://www.pay2easy.com/uploads/3243-&%20Flix%20HD.png" group-title="Movies",&Flix HD
 https://ln.run/6OaJx
 
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b6c321ecaa5ff1d18a5fb43/1565809276600/614784ddd470a1d3f1f270c260505c9a.jpg" group-title="Movies",&Privé HD
 https://ln.run/AYPv-
-#EXTINF:-1 tvg-logo="https://miro.medium.com/max/1200/0*G79fvNRSWWRaeY4n.png",MNX
-http://ky-tv.cc:25461/David59459/2354545444/1123364
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201809/mn.jpg",MN+
-http://cdnrowline.xyz:80/D59095148D64A8F/m30QbXly4n/34699
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg",Movies Now
-http://supercamp.cfd:8080/live/51666620600636030/4931666620600636/53548.ts
+https://bit.ly/4e4NJDE
 
 #EXTINF:-1 tvg-id="Hbo.Asia" tvg-logo="https://i.ibb.co/xfgvmDd/HBO.png" group-title="Movies",HBO
 http://apkandweb.ddns.net/6377635294/6663568605/691
@@ -92,10 +88,9 @@ http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/23407
 http://apkandweb.ddns.net/6377635294/6663568605/697
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/336-3361268_cinemax-hd-hbo-cinemax.png" group-title="Movies",Cinemax
-http://apkandweb.ddns.net/6377635294/6663568605/1020434
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",Sony Movie Channel HD 
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125650
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-pix-large.png",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
@@ -116,7 +111,7 @@ http://livetv2021.site:8080/9897876765/6576567/121
 https://wag.ika.lat/stream/2084767267
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/440px-Showtime.svg.png" group-title="Movies",Showtime HD
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/125678
+http://apkandweb.ddns.net/6377635294/6663568605/703
 
 #EXTINF:-1 tvg-chno="338" tvg-logo="https://i.pinimg.com/originals/41/67/14/4167141e1f17472f8bc0027555f57a3a.png",AMC
 http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/18914
@@ -131,13 +126,17 @@ http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 http://mytv.fun:8080/2ytrhfdcz9/iqn5v2s3eb/13757
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wgykTXf/image.png" group-title="Educational",Discovery Channel
-http://got.vampirereapers.xyz:2052/Babyj2233/qu6kxFYtLGDg/307699
+https://bit.ly/4enh50d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YL690Pt/Animal-Planet-2018-II.png" group-title="Educational",Animal Planet
 https://bit.ly/3NLunsn
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2018/02/history-channel-logo.jpg",History
-https://bit.ly/3Ykz0yq
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png" group-title="Educational",Love Nature
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1471386&extension=ts&play_token=ptPQQmYaig
@@ -151,17 +150,8 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Educational",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Music",MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="Music",MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="Music",Yo! MTV
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="Music",MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
 
 #EXTINF:-1 tvg-logo="https://russel.fandom.com/wiki/Myx_Logos_(2021-present)?file=Myx_Logo_2021.png" group-title="Music",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
@@ -179,19 +169,13 @@ https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/
 https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTFnf22GZ9YOwThSvjiqOhWlfFy2G2Sn2RL9Q&usqp=CAU" group-title="News",NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+https://bit.ly/3YK6l7a
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Al_Jazeera.svg/revision/latest/scale-to-width-down/2000?cb=20171112085348" group-title="News",Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png" group-title="News",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png" group-title="News",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/820?cb=20190417224656" group-title="News",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1" group-title="News",MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
